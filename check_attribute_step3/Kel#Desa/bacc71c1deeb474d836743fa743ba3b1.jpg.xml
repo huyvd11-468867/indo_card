@@ -1,0 +1,13 @@
+<annotation><filename>bacc71c1deeb474d836743fa743ba3b1.jpg.jpg</filename><path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/bacc71c1deeb474d836743fa743ba3b1.jpg.jpg</path><source><database>Unknown</database></source><size><width>779</width><height>405</height></size><object>
+		<name>Kel/Desa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>190</ymin>
+			<xmax>336</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<segmented>0</segmented></annotation>

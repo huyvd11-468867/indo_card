@@ -1,0 +1,13 @@
+<annotation><filename>0930f1be193045858e57439fd13d1494.jpg.jpg</filename><path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/0930f1be193045858e57439fd13d1494.jpg.jpg</path><source><database>Unknown</database></source><size><width>1176</width><height>620</height></size><object>
+		<name>Jenis Kelamin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>238</ymin>
+			<xmax>453</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<segmented>0</segmented></annotation>

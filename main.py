@@ -74,6 +74,7 @@ class ExtractIndoCard:
         with io.BytesIO() as buf:
             img_pred.save(buf, 'jpeg')
             img_pred = buf.getvalue()
+
         str_base64 = str(base64.b64encode(img_pred))
         print(type(str_base64))
         dict_main['info'] = dict_atb
@@ -83,16 +84,16 @@ class ExtractIndoCard:
         return dict_main
 
 #
-img_path = '/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/test_end'
-arr_img = glob.glob(os.path.join(img_path, '*'))
-
-model = ExtractIndoCard()
-
-for img in arr_img:
-    name = os.path.basename(img)
-    img_open = Image.open(img)
-    dict_end = model.predict(img_open)
-    # print(dict_end)
-
-    print(json.dumps(dict_end))
-    cv2.waitKey()
+# img_path = '/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/test_end'
+# arr_img = glob.glob(os.path.join(img_path, '*'))
+#
+# model = ExtractIndoCard()
+#
+# for img in arr_img:
+#     name = os.path.basename(img)
+#     img_open = Image.open(img)
+#     dict_end = model.predict(img_open)
+#     # print(dict_end)
+#
+#     print(json.dumps(dict_end))
+#     cv2.waitKey()

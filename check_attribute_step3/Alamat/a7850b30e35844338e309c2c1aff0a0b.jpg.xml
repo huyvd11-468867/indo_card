@@ -1,0 +1,13 @@
+<annotation><filename>a7850b30e35844338e309c2c1aff0a0b.jpg.jpg</filename><path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/a7850b30e35844338e309c2c1aff0a0b.jpg.jpg</path><source><database>Unknown</database></source><size><width>534</width><height>286</height></size><object>
+		<name>Alamat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>126</ymin>
+			<xmax>206</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+	<segmented>0</segmented></annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>save_img</folder>
+	<filename>affbb98add4944538f102b674300946c.jpg.jpg</filename>
+	<path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/affbb98add4944538f102b674300946c.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>569</width>
+		<height>305</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tempat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>88</ymin>
+			<xmax>225</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

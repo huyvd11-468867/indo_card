@@ -1,0 +1,25 @@
+<annotation><filename>55548bf1a2af452db1d48debea1819a0.jpg.jpg</filename><path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/55548bf1a2af452db1d48debea1819a0.jpg.jpg</path><source><database>Unknown</database></source><size><width>993</width><height>527</height></size><object>
+		<name>Kel/Desa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>242</ymin>
+			<xmax>334</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kel/Desa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>242</ymin>
+			<xmax>434</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+	<segmented>0</segmented></annotation>

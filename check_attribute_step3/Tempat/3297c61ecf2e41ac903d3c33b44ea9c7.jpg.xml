@@ -1,0 +1,13 @@
+<annotation><filename>3297c61ecf2e41ac903d3c33b44ea9c7.jpg.jpg</filename><path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/3297c61ecf2e41ac903d3c33b44ea9c7.jpg.jpg</path><source><database>Unknown</database></source><size><width>466</width><height>249</height></size><object>
+		<name>Tempat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>63</ymin>
+			<xmax>155</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+	<segmented>0</segmented></annotation>

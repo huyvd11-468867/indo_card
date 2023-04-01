@@ -1,0 +1,13 @@
+<annotation><filename>d0cc9c2129a84049a2de1d4057c8822e.jpg.jpg</filename><path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/d0cc9c2129a84049a2de1d4057c8822e.jpg.jpg</path><source><database>Unknown</database></source><size><width>1216</width><height>660</height></size><object>
+		<name>RT/RW</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>304</ymin>
+			<xmax>440</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+	<segmented>0</segmented></annotation>

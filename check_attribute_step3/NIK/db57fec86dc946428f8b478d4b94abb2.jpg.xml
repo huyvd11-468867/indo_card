@@ -1,0 +1,13 @@
+<annotation><filename>db57fec86dc946428f8b478d4b94abb2.jpg.jpg</filename><path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img_shortcut/save_img/db57fec86dc946428f8b478d4b94abb2.jpg.jpg</path><source><database>Unknown</database></source><size><width>586</width><height>325</height></size><object>
+		<name>NIK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>41</ymin>
+			<xmax>402</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+	<segmented>0</segmented></annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>save_img</folder>
+	<filename>3b79911ed7cb4e1787b5a08c46a4df50.jpg.jpg</filename>
+	<path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/3b79911ed7cb4e1787b5a08c46a4df50.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tgl Lahir</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>152</ymin>
+			<xmax>550</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

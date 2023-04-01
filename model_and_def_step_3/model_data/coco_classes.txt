@@ -1,0 +1,14 @@
+Alamat
+RT/RW
+Berlaku Hingga
+Status Perkawinan
+Tempat
+Kel/Desa
+Agama
+Kecamatan
+Kewarganegaraan
+Nama
+Jenis Kelamin
+Tgl Lahir
+Pekerjaan
+NIK

@@ -1,0 +1,25 @@
+<annotation><filename>d35b6d33d0f446448153fa72286b9b7d.jpg.jpg</filename><path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/d35b6d33d0f446448153fa72286b9b7d.jpg.jpg</path><source><database>Unknown</database></source><size><width>790</width><height>433</height></size><object>
+		<name>Nama</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>103</ymin>
+			<xmax>251</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nama</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>101</ymin>
+			<xmax>367</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+	<segmented>0</segmented></annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>save_img</folder>
+	<filename>c9a3d8787e97437e8454dfdf007d2f3d.jpg.jpg</filename>
+	<path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/c9a3d8787e97437e8454dfdf007d2f3d.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>747</width>
+		<height>406</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pekerjaan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>272</ymin>
+			<xmax>387</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

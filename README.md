@@ -1,1 +1,0 @@
-# indo_card

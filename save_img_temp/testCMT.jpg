@@ -1,0 +1,1000 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="vi"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="vi"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="vi"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js lt-ie10" lang="vi"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="vi"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=yes' />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://luatsux.vn/xmlrpc.php" />
+<meta name='robots' content='noindex, follow' />
+<script type="text/javascript">
+			  var jnews_ajax_url = '/?ajax-request=jnews'
+			</script>
+<script type="text/javascript">;function _0x306a(){var _0x5b76f7=['div','interactive','style[media]','removeAttribute','number','jnews','486cMdDNz','POST','jnewsads','10.0.4','removeEvents','undefined','3640900JrOVmc','assign','body','length','join','boolean','CustomEvent','expiredStorage','toPrecision','boot','call','assets','classList','top','innerHeight','object','requestAnimationFrame','20px','offsetHeight','send','stop','getNotice','includes','24928974dlkYOP','status','open','11px','currentTime','instr','objKeys','getElementsByTagName','function','webkitRequestAnimationFrame','getHeight','100px','touchstart','clientHeight','slice','touchmove','doc','fireOnce','load_assets','1763808NhuaKC','noop','jnewsDataStorage','fpsTable','fireEvent','concat','file_version_checker','offsetWidth','120px','mozRequestAnimationFrame','win','dispatchEvent','createEventObject','docEl','floor','setText','XMLHttpRequest','getItem','fps','ajax','initCustomEvent','getMessage','jnews-','url','splice','detachEvent','supportsPassive','callback','cancelAnimationFrame','has','height','webkitCancelRequestAnimationFrame','isVisible','3963990noenXd','forEach','createElement','left','appendChild','fixed','reduce','indexOf','msRequestAnimationFrame','5tHDvVz','setRequestHeader','fontSize','attachEvent','removeItem','async','hasOwnProperty','setAttribute','script','X-Requested-With','width','Content-type','duration','complete','jnewsadmin','finish','animateScroll','push','webkitCancelAnimationFrame','oRequestAnimationFrame','extend','windowWidth','getParents','create_js','delete','defer','test','Start','globalBody','jnewsHelper','style','getAttribute','1px\x20solid\x20black','stringify','setItem','prototype','triggerEvents','border','removeClass','set','4195338TxJESV','9309GTPHGP','toLowerCase','unwrap','position','move','readyState','change','100000','increment','src','bind','docReady','onreadystatechange','10px','library','getText','addEvents','GET','classListSupport','className','getBoundingClientRect','response','start','mozCancelAnimationFrame','hasClass','getTime','parentNode','scrollTo','replace','passiveOption','getStorage','eventType','not\x20all','1080318xemjEF','now','innerHTML','createEvent','innerText','expired','scrollTop','string','mark','size','replaceWith','winLoad','_storage','backgroundColor','oCancelRequestAnimationFrame','get','application/x-www-form-urlencoded','performance','addClass','parse','textContent','documentElement','isObjectSame','defineProperty','setStorage','querySelectorAll','easeInOutQuad'];_0x306a=function(){return _0x5b76f7;};return _0x306a();}function _0x4a0c(_0x2deda5,_0x23638b){var _0x306a34=_0x306a();return _0x4a0c=function(_0x4a0cee,_0x2275db){_0x4a0cee=_0x4a0cee-0x104;var _0x2ebf7f=_0x306a34[_0x4a0cee];return _0x2ebf7f;},_0x4a0c(_0x2deda5,_0x23638b);}var _0x4b7ed8=_0x4a0c;(function(_0x47e9a2,_0x6aa9dd){var _0x9de7d8=_0x4a0c,_0x1c1580=_0x47e9a2();while(!![]){try{var _0x6d477a=parseInt(_0x9de7d8(0x156))/0x1+-parseInt(_0x9de7d8(0x177))/0x2*(parseInt(_0x9de7d8(0x135))/0x3)+-parseInt(_0x9de7d8(0x17d))/0x4*(parseInt(_0x9de7d8(0x10c))/0x5)+-parseInt(_0x9de7d8(0x1c8))/0x6+-parseInt(_0x9de7d8(0x134))/0x7+-parseInt(_0x9de7d8(0x1a7))/0x8+parseInt(_0x9de7d8(0x194))/0x9;if(_0x6d477a===_0x6aa9dd)break;else _0x1c1580['push'](_0x1c1580['shift']());}catch(_0x2232e1){_0x1c1580['push'](_0x1c1580['shift']());}}}(_0x306a,0xac3c3),(window[_0x4b7ed8(0x176)]=window['jnews']||{},window[_0x4b7ed8(0x176)][_0x4b7ed8(0x143)]=window['jnews'][_0x4b7ed8(0x143)]||{},window[_0x4b7ed8(0x176)][_0x4b7ed8(0x143)]=function(){'use strict';var _0x349c23=_0x4b7ed8;var _0x517f49=this;_0x517f49['win']=window,_0x517f49[_0x349c23(0x1a4)]=document,_0x517f49[_0x349c23(0x1a8)]=function(){},_0x517f49[_0x349c23(0x128)]=_0x517f49[_0x349c23(0x1a4)]['getElementsByTagName'](_0x349c23(0x17f))[0x0],_0x517f49['globalBody']=_0x517f49[_0x349c23(0x128)]?_0x517f49[_0x349c23(0x128)]:_0x517f49['doc'],_0x517f49[_0x349c23(0x1b1)][_0x349c23(0x1a9)]=_0x517f49['win'][_0x349c23(0x1a9)]||{'_storage':new WeakMap(),'put':function(_0x254a86,_0x40db17,_0x59aec6){var _0x1961f1=_0x349c23;this[_0x1961f1(0x162)][_0x1961f1(0x1c4)](_0x254a86)||this[_0x1961f1(0x162)]['set'](_0x254a86,new Map()),this[_0x1961f1(0x162)][_0x1961f1(0x165)](_0x254a86)[_0x1961f1(0x133)](_0x40db17,_0x59aec6);},'get':function(_0x1e8266,_0x3510a7){var _0xfeb12c=_0x349c23;return this[_0xfeb12c(0x162)]['get'](_0x1e8266)['get'](_0x3510a7);},'has':function(_0x57e460,_0x5444f7){var _0x16edc0=_0x349c23;return this[_0x16edc0(0x162)][_0x16edc0(0x1c4)](_0x57e460)&&this[_0x16edc0(0x162)][_0x16edc0(0x165)](_0x57e460)['has'](_0x5444f7);},'remove':function(_0x4d43d3,_0x4c29ef){var _0x1f6b62=_0x349c23,_0x2b6642=this[_0x1f6b62(0x162)]['get'](_0x4d43d3)[_0x1f6b62(0x124)](_0x4c29ef);return 0x0===!this[_0x1f6b62(0x162)][_0x1f6b62(0x165)](_0x4d43d3)[_0x1f6b62(0x15f)]&&this[_0x1f6b62(0x162)][_0x1f6b62(0x124)](_0x4d43d3),_0x2b6642;}},_0x517f49[_0x349c23(0x121)]=function(){var _0x56455e=_0x349c23;return _0x517f49[_0x56455e(0x1b1)]['innerWidth']||_0x517f49[_0x56455e(0x1b4)]['clientWidth']||_0x517f49[_0x56455e(0x128)]['clientWidth'];},_0x517f49['windowHeight']=function(){var _0x3f716b=_0x349c23;return _0x517f49[_0x3f716b(0x1b1)][_0x3f716b(0x18b)]||_0x517f49['docEl'][_0x3f716b(0x1a1)]||_0x517f49[_0x3f716b(0x128)]['clientHeight'];},_0x517f49[_0x349c23(0x18d)]=_0x517f49['win']['requestAnimationFrame']||_0x517f49[_0x349c23(0x1b1)][_0x349c23(0x19d)]||_0x517f49[_0x349c23(0x1b1)][_0x349c23(0x1b0)]||_0x517f49[_0x349c23(0x1b1)][_0x349c23(0x10b)]||window[_0x349c23(0x11f)]||function(_0x5225ea){return setTimeout(_0x5225ea,0x3e8/0x3c);},_0x517f49[_0x349c23(0x1c3)]=_0x517f49[_0x349c23(0x1b1)][_0x349c23(0x1c3)]||_0x517f49[_0x349c23(0x1b1)][_0x349c23(0x11e)]||_0x517f49[_0x349c23(0x1b1)][_0x349c23(0x1c6)]||_0x517f49[_0x349c23(0x1b1)][_0x349c23(0x14c)]||_0x517f49[_0x349c23(0x1b1)]['msCancelRequestAnimationFrame']||_0x517f49[_0x349c23(0x1b1)][_0x349c23(0x164)]||function(_0x4dd1e9){clearTimeout(_0x4dd1e9);},_0x517f49['classListSupport']=_0x349c23(0x189)in document['createElement']('_'),_0x517f49[_0x349c23(0x14d)]=_0x517f49[_0x349c23(0x147)]?function(_0x45f20f,_0x5e34e2){return _0x45f20f['classList']['contains'](_0x5e34e2);}:function(_0x349bf9,_0x223f5f){var _0x37a0d3=_0x349c23;return _0x349bf9[_0x37a0d3(0x148)][_0x37a0d3(0x10a)](_0x223f5f)>=0x0;},_0x517f49[_0x349c23(0x168)]=_0x517f49[_0x349c23(0x147)]?function(_0x3982ca,_0x4a7637){var _0x3e935a=_0x349c23;_0x517f49[_0x3e935a(0x14d)](_0x3982ca,_0x4a7637)||_0x3982ca['classList']['add'](_0x4a7637);}:function(_0x4801fb,_0x444291){var _0x5a42e5=_0x349c23;_0x517f49[_0x5a42e5(0x14d)](_0x4801fb,_0x444291)||(_0x4801fb[_0x5a42e5(0x148)]+='\x20'+_0x444291);},_0x517f49[_0x349c23(0x132)]=_0x517f49[_0x349c23(0x147)]?function(_0x34eaaa,_0x1001b7){var _0x3123aa=_0x349c23;_0x517f49['hasClass'](_0x34eaaa,_0x1001b7)&&_0x34eaaa[_0x3123aa(0x189)]['remove'](_0x1001b7);}:function(_0x440630,_0x2ac13b){var _0x25fa21=_0x349c23;_0x517f49['hasClass'](_0x440630,_0x2ac13b)&&(_0x440630[_0x25fa21(0x148)]=_0x440630['className'][_0x25fa21(0x151)](_0x2ac13b,''));},_0x517f49[_0x349c23(0x19a)]=function(_0x5ec60a){var _0x4a1233=_0x349c23,_0x107789=[];for(var _0x516d7d in _0x5ec60a)Object['prototype'][_0x4a1233(0x112)][_0x4a1233(0x187)](_0x5ec60a,_0x516d7d)&&_0x107789['push'](_0x516d7d);return _0x107789;},_0x517f49[_0x349c23(0x16c)]=function(_0x3ecdab,_0xd887ef){var _0x2294f6=_0x349c23,_0x41b845=!0x0;return JSON[_0x2294f6(0x12d)](_0x3ecdab)!==JSON[_0x2294f6(0x12d)](_0xd887ef)&&(_0x41b845=!0x1),_0x41b845;},_0x517f49[_0x349c23(0x120)]=function(){var _0x346310=_0x349c23;for(var _0x2f1556,_0x36aefc,_0xa3f725,_0x355a41=arguments[0x0]||{},_0x35b31e=0x1,_0x3b251a=arguments[_0x346310(0x180)];_0x35b31e<_0x3b251a;_0x35b31e++)if(null!==(_0x2f1556=arguments[_0x35b31e])){for(_0x36aefc in _0x2f1556)_0x355a41!==(_0xa3f725=_0x2f1556[_0x36aefc])&&void 0x0!==_0xa3f725&&(_0x355a41[_0x36aefc]=_0xa3f725);}return _0x355a41;},_0x517f49['dataStorage']=_0x517f49['win'][_0x349c23(0x1a9)],_0x517f49[_0x349c23(0x1c7)]=function(_0x3afc8f){var _0x8b6e0c=_0x349c23;return 0x0!==_0x3afc8f[_0x8b6e0c(0x1ae)]&&0x0!==_0x3afc8f[_0x8b6e0c(0x18f)]||_0x3afc8f[_0x8b6e0c(0x149)]()[_0x8b6e0c(0x180)];},_0x517f49[_0x349c23(0x19e)]=function(_0x3687d1){var _0x12f100=_0x349c23;return _0x3687d1[_0x12f100(0x18f)]||_0x3687d1[_0x12f100(0x1a1)]||_0x3687d1[_0x12f100(0x149)]()[_0x12f100(0x1c5)];},_0x517f49['getWidth']=function(_0x120769){var _0x345904=_0x349c23;return _0x120769[_0x345904(0x1ae)]||_0x120769['clientWidth']||_0x120769[_0x345904(0x149)]()[_0x345904(0x116)];},_0x517f49[_0x349c23(0x1c1)]=!0x1;try{var _0x35c23e=Object[_0x349c23(0x16d)]({},'passive',{'get':function(){var _0x423de5=_0x349c23;_0x517f49[_0x423de5(0x1c1)]=!0x0;}});'createEvent'in _0x517f49[_0x349c23(0x1a4)]?_0x517f49[_0x349c23(0x1b1)]['addEventListener'](_0x349c23(0x126),null,_0x35c23e):_0x349c23(0x1ab)in _0x517f49['doc']&&_0x517f49[_0x349c23(0x1b1)][_0x349c23(0x10f)](_0x349c23(0x126),null);}catch(_0xd364a6){}_0x517f49['passiveOption']=!!_0x517f49[_0x349c23(0x1c1)]&&{'passive':!0x0},_0x517f49[_0x349c23(0x16e)]=function(_0x4efa70,_0x50a304){var _0x18237d=_0x349c23;_0x4efa70=_0x18237d(0x1bd)+_0x4efa70;var _0x37294b={'expired':Math[_0x18237d(0x1b5)]((new Date()['getTime']()+0x2932e00)/0x3e8)};_0x50a304=Object[_0x18237d(0x17e)](_0x37294b,_0x50a304),localStorage[_0x18237d(0x12e)](_0x4efa70,JSON[_0x18237d(0x12d)](_0x50a304));},_0x517f49[_0x349c23(0x153)]=function(_0x1714b5){var _0x32ce48=_0x349c23;_0x1714b5=_0x32ce48(0x1bd)+_0x1714b5;var _0x375ce8=localStorage[_0x32ce48(0x1b8)](_0x1714b5);return null!==_0x375ce8&&0x0<_0x375ce8['length']?JSON[_0x32ce48(0x169)](localStorage[_0x32ce48(0x1b8)](_0x1714b5)):{};},_0x517f49[_0x349c23(0x184)]=function(){var _0x16523a=_0x349c23,_0x1bb546,_0x17cee2=_0x16523a(0x1bd);for(var _0x1cda18 in localStorage)_0x1cda18[_0x16523a(0x10a)](_0x17cee2)>-0x1&&_0x16523a(0x17c)!==(_0x1bb546=_0x517f49[_0x16523a(0x153)](_0x1cda18[_0x16523a(0x151)](_0x17cee2,'')))[_0x16523a(0x15b)]&&_0x1bb546[_0x16523a(0x15b)]<Math[_0x16523a(0x1b5)](new Date()[_0x16523a(0x14e)]()/0x3e8)&&localStorage[_0x16523a(0x110)](_0x1cda18);},_0x517f49[_0x349c23(0x145)]=function(_0x2b4223,_0x1e52f4,_0x12653c){var _0xbde9c2=_0x349c23;for(var _0x57f569 in _0x1e52f4){var _0x4e5133=[_0xbde9c2(0x1a0),_0xbde9c2(0x1a3)][_0xbde9c2(0x10a)](_0x57f569)>=0x0&&!_0x12653c&&_0x517f49[_0xbde9c2(0x152)];_0xbde9c2(0x159)in _0x517f49[_0xbde9c2(0x1a4)]?_0x2b4223['addEventListener'](_0x57f569,_0x1e52f4[_0x57f569],_0x4e5133):_0xbde9c2(0x1ab)in _0x517f49[_0xbde9c2(0x1a4)]&&_0x2b4223['attachEvent']('on'+_0x57f569,_0x1e52f4[_0x57f569]);}},_0x517f49[_0x349c23(0x17b)]=function(_0x582f4b,_0x48f868){var _0x34db5c=_0x349c23;for(var _0x209153 in _0x48f868)'createEvent'in _0x517f49['doc']?_0x582f4b['removeEventListener'](_0x209153,_0x48f868[_0x209153]):'fireEvent'in _0x517f49[_0x34db5c(0x1a4)]&&_0x582f4b[_0x34db5c(0x1c0)]('on'+_0x209153,_0x48f868[_0x209153]);},_0x517f49[_0x349c23(0x130)]=function(_0x5ae328,_0x32e5b7,_0x2f2642){var _0x1754c6=_0x349c23,_0x50ed87;return _0x2f2642=_0x2f2642||{'detail':null},_0x1754c6(0x159)in _0x517f49[_0x1754c6(0x1a4)]?(!(_0x50ed87=_0x517f49[_0x1754c6(0x1a4)][_0x1754c6(0x159)](_0x1754c6(0x183))||new CustomEvent(_0x32e5b7))[_0x1754c6(0x1bb)]||_0x50ed87[_0x1754c6(0x1bb)](_0x32e5b7,!0x0,!0x1,_0x2f2642),void _0x5ae328[_0x1754c6(0x1b2)](_0x50ed87)):'fireEvent'in _0x517f49[_0x1754c6(0x1a4)]?((_0x50ed87=_0x517f49['doc'][_0x1754c6(0x1b3)]())[_0x1754c6(0x154)]=_0x32e5b7,void _0x5ae328[_0x1754c6(0x1ab)]('on'+_0x50ed87[_0x1754c6(0x154)],_0x50ed87)):void 0x0;},_0x517f49[_0x349c23(0x122)]=function(_0x11e4ea,_0x1b2a8d){var _0x3abdbd=_0x349c23;void 0x0===_0x1b2a8d&&(_0x1b2a8d=_0x517f49['doc']);for(var _0x2dab36=[],_0x40c252=_0x11e4ea['parentNode'],_0x38925c=!0x1;!_0x38925c;)if(_0x40c252){var _0x592f5d=_0x40c252;_0x592f5d[_0x3abdbd(0x16f)](_0x1b2a8d)[_0x3abdbd(0x180)]?_0x38925c=!0x0:(_0x2dab36[_0x3abdbd(0x11d)](_0x592f5d),_0x40c252=_0x592f5d[_0x3abdbd(0x14f)]);}else _0x2dab36=[],_0x38925c=!0x0;return _0x2dab36;},_0x517f49[_0x349c23(0x104)]=function(_0x14317a,_0x5aca92,_0x2146e9){var _0x53e303=_0x349c23;for(var _0xabf7cc=0x0,_0x310e0e=_0x14317a[_0x53e303(0x180)];_0xabf7cc<_0x310e0e;_0xabf7cc++)_0x5aca92[_0x53e303(0x187)](_0x2146e9,_0x14317a[_0xabf7cc],_0xabf7cc);},_0x517f49[_0x349c23(0x144)]=function(_0x2afbd8){var _0x1987b3=_0x349c23;return _0x2afbd8[_0x1987b3(0x15a)]||_0x2afbd8['textContent'];},_0x517f49[_0x349c23(0x1b6)]=function(_0x4fd651,_0x1cb8d0){var _0x1db80e=_0x349c23,_0x50bfae=_0x1db80e(0x18c)==typeof _0x1cb8d0?_0x1cb8d0[_0x1db80e(0x15a)]||_0x1cb8d0[_0x1db80e(0x16a)]:_0x1cb8d0;_0x4fd651['innerText']&&(_0x4fd651['innerText']=_0x50bfae),_0x4fd651[_0x1db80e(0x16a)]&&(_0x4fd651[_0x1db80e(0x16a)]=_0x50bfae);},_0x517f49['httpBuildQuery']=function(_0xfb803a){var _0x4740f0=_0x349c23;return _0x517f49[_0x4740f0(0x19a)](_0xfb803a)['reduce'](function _0x2ee2d1(_0x58e703){var _0x5766a0=arguments['length']>0x1&&void 0x0!==arguments[0x1]?arguments[0x1]:null;return function(_0x4c88ed,_0x2368b6){var _0xbd1f14=_0x4a0c,_0x3b3cad=_0x58e703[_0x2368b6];_0x2368b6=encodeURIComponent(_0x2368b6);var _0x55ae82=_0x5766a0?''[_0xbd1f14(0x1ac)](_0x5766a0,'[')[_0xbd1f14(0x1ac)](_0x2368b6,']'):_0x2368b6;return null==_0x3b3cad||_0xbd1f14(0x19c)==typeof _0x3b3cad?(_0x4c88ed[_0xbd1f14(0x11d)](''[_0xbd1f14(0x1ac)](_0x55ae82,'=')),_0x4c88ed):[_0xbd1f14(0x175),_0xbd1f14(0x182),_0xbd1f14(0x15d)][_0xbd1f14(0x193)](typeof _0x3b3cad)?(_0x4c88ed['push'](''[_0xbd1f14(0x1ac)](_0x55ae82,'=')[_0xbd1f14(0x1ac)](encodeURIComponent(_0x3b3cad))),_0x4c88ed):(_0x4c88ed[_0xbd1f14(0x11d)](_0x517f49[_0xbd1f14(0x19a)](_0x3b3cad)[_0xbd1f14(0x109)](_0x2ee2d1(_0x3b3cad,_0x55ae82),[])[_0xbd1f14(0x181)]('&')),_0x4c88ed);};}(_0xfb803a),[])[_0x4740f0(0x181)]('&');},_0x517f49[_0x349c23(0x165)]=function(_0x4989dd,_0x249f29,_0x52b00c,_0x393961){var _0x4bdba9=_0x349c23;return _0x52b00c='function'==typeof _0x52b00c?_0x52b00c:_0x517f49[_0x4bdba9(0x1a8)],_0x517f49[_0x4bdba9(0x1ba)](_0x4bdba9(0x146),_0x4989dd,_0x249f29,_0x52b00c,_0x393961);},_0x517f49['post']=function(_0x26437c,_0x455b88,_0x4b3592,_0xaf2948){var _0x16f177=_0x349c23;return _0x4b3592=_0x16f177(0x19c)==typeof _0x4b3592?_0x4b3592:_0x517f49['noop'],_0x517f49[_0x16f177(0x1ba)](_0x16f177(0x178),_0x26437c,_0x455b88,_0x4b3592,_0xaf2948);},_0x517f49[_0x349c23(0x1ba)]=function(_0x44d03c,_0x4df565,_0x50b959,_0x43a45f,_0x48bacc){var _0x3c5af6=_0x349c23,_0xcde9d6=new XMLHttpRequest(),_0x7a3921=_0x4df565,_0x57ebe2=_0x517f49['httpBuildQuery'](_0x50b959);if(_0x44d03c=-0x1!=['GET',_0x3c5af6(0x178)][_0x3c5af6(0x10a)](_0x44d03c)?_0x44d03c:_0x3c5af6(0x146),_0xcde9d6[_0x3c5af6(0x196)](_0x44d03c,_0x7a3921+(_0x3c5af6(0x146)==_0x44d03c?'?'+_0x57ebe2:''),!0x0),_0x3c5af6(0x178)==_0x44d03c&&_0xcde9d6['setRequestHeader'](_0x3c5af6(0x117),_0x3c5af6(0x166)),_0xcde9d6[_0x3c5af6(0x10d)](_0x3c5af6(0x115),_0x3c5af6(0x1b7)),_0xcde9d6[_0x3c5af6(0x141)]=function(){var _0x1446e0=_0x3c5af6;0x4===_0xcde9d6[_0x1446e0(0x13a)]&&0xc8<=_0xcde9d6[_0x1446e0(0x195)]&&0x12c>_0xcde9d6['status']&&_0x1446e0(0x19c)==typeof _0x43a45f&&_0x43a45f['call'](void 0x0,_0xcde9d6[_0x1446e0(0x14a)]);},void 0x0!==_0x48bacc&&!_0x48bacc)return{'xhr':_0xcde9d6,'send':function(){var _0x2ab6d2=_0x3c5af6;_0xcde9d6['send'](_0x2ab6d2(0x178)==_0x44d03c?_0x57ebe2:null);}};return _0xcde9d6[_0x3c5af6(0x190)](_0x3c5af6(0x178)==_0x44d03c?_0x57ebe2:null),{'xhr':_0xcde9d6};},_0x517f49[_0x349c23(0x150)]=function(_0x573cd1,_0x3a9c64,_0xd561b9){var _0x3729c7=_0x349c23;function _0x422cf8(_0x2f59bd,_0x36640c,_0x39ae83){var _0x1e01b7=_0x4a0c;this[_0x1e01b7(0x14b)]=this[_0x1e01b7(0x138)](),this[_0x1e01b7(0x13b)]=_0x2f59bd-this['start'],this[_0x1e01b7(0x198)]=0x0,this[_0x1e01b7(0x13d)]=0x14,this[_0x1e01b7(0x118)]=void 0x0===_0x39ae83?0x1f4:_0x39ae83,this['callback']=_0x36640c,this[_0x1e01b7(0x11b)]=!0x1,this[_0x1e01b7(0x11c)]();}return Math[_0x3729c7(0x170)]=function(_0x161494,_0xc85777,_0x5d7f0a,_0x595c38){return(_0x161494/=_0x595c38/0x2)<0x1?_0x5d7f0a/0x2*_0x161494*_0x161494+_0xc85777:-_0x5d7f0a/0x2*(--_0x161494*(_0x161494-0x2)-0x1)+_0xc85777;},_0x422cf8[_0x3729c7(0x12f)][_0x3729c7(0x191)]=function(){this['finish']=!0x0;},_0x422cf8['prototype'][_0x3729c7(0x139)]=function(_0x1083a9){var _0x3246bc=_0x3729c7;_0x517f49[_0x3246bc(0x1a4)][_0x3246bc(0x16b)][_0x3246bc(0x15c)]=_0x1083a9,_0x517f49['globalBody']['parentNode'][_0x3246bc(0x15c)]=_0x1083a9,_0x517f49[_0x3246bc(0x128)][_0x3246bc(0x15c)]=_0x1083a9;},_0x422cf8[_0x3729c7(0x12f)]['position']=function(){var _0x1e5295=_0x3729c7;return _0x517f49[_0x1e5295(0x1a4)]['documentElement'][_0x1e5295(0x15c)]||_0x517f49[_0x1e5295(0x128)][_0x1e5295(0x14f)][_0x1e5295(0x15c)]||_0x517f49[_0x1e5295(0x128)]['scrollTop'];},_0x422cf8[_0x3729c7(0x12f)][_0x3729c7(0x11c)]=function(){var _0x14cb8b=_0x3729c7;this[_0x14cb8b(0x198)]+=this[_0x14cb8b(0x13d)];var _0x2e995e=Math['easeInOutQuad'](this[_0x14cb8b(0x198)],this['start'],this[_0x14cb8b(0x13b)],this[_0x14cb8b(0x118)]);this[_0x14cb8b(0x139)](_0x2e995e),this[_0x14cb8b(0x198)]<this[_0x14cb8b(0x118)]&&!this['finish']?_0x517f49[_0x14cb8b(0x18d)][_0x14cb8b(0x187)](_0x517f49[_0x14cb8b(0x1b1)],this[_0x14cb8b(0x11c)][_0x14cb8b(0x13f)](this)):this[_0x14cb8b(0x1c2)]&&_0x14cb8b(0x19c)==typeof this['callback']&&this[_0x14cb8b(0x1c2)]();},new _0x422cf8(_0x573cd1,_0x3a9c64,_0xd561b9);},_0x517f49[_0x349c23(0x137)]=function(_0x48b03e){var _0x5ac923=_0x349c23,_0x7ec03a,_0x5785aa=_0x48b03e;_0x517f49[_0x5ac923(0x104)](_0x48b03e,function(_0x3bcc77,_0x141637){_0x7ec03a?_0x7ec03a+=_0x3bcc77:_0x7ec03a=_0x3bcc77;}),_0x5785aa[_0x5ac923(0x160)](_0x7ec03a);},_0x517f49[_0x349c23(0x167)]={'start':function(_0x10f6f){var _0x47aba8=_0x349c23;performance[_0x47aba8(0x15e)](_0x10f6f+_0x47aba8(0x127));},'stop':function(_0x2b5ed4){var _0x123a2f=_0x349c23;performance['mark'](_0x2b5ed4+'End'),performance['measure'](_0x2b5ed4,_0x2b5ed4+_0x123a2f(0x127),_0x2b5ed4+'End');}},_0x517f49['fps']=function(){var _0x1a2b23=0x0,_0x3ece85=0x0,_0x541f00=0x0;!(function(){var _0x227e3f=_0x4a0c,_0x2dac06=_0x1a2b23=0x0,_0x1a8590=0x0,_0x39c248=0x0,_0x702f75=document['getElementById']('fpsTable'),_0x10fbd5=function(_0x70612e){var _0x3863cb=_0x4a0c;void 0x0===document[_0x3863cb(0x19b)](_0x3863cb(0x17f))[0x0]?_0x517f49[_0x3863cb(0x18d)]['call'](_0x517f49[_0x3863cb(0x1b1)],function(){_0x10fbd5(_0x70612e);}):document[_0x3863cb(0x19b)](_0x3863cb(0x17f))[0x0][_0x3863cb(0x107)](_0x70612e);};null===_0x702f75&&((_0x702f75=document[_0x227e3f(0x105)](_0x227e3f(0x171)))[_0x227e3f(0x12a)][_0x227e3f(0x138)]=_0x227e3f(0x108),_0x702f75[_0x227e3f(0x12a)][_0x227e3f(0x18a)]=_0x227e3f(0x1af),_0x702f75[_0x227e3f(0x12a)][_0x227e3f(0x106)]=_0x227e3f(0x142),_0x702f75['style'][_0x227e3f(0x116)]=_0x227e3f(0x19f),_0x702f75[_0x227e3f(0x12a)][_0x227e3f(0x1c5)]=_0x227e3f(0x18e),_0x702f75[_0x227e3f(0x12a)][_0x227e3f(0x131)]=_0x227e3f(0x12c),_0x702f75['style'][_0x227e3f(0x10e)]=_0x227e3f(0x197),_0x702f75[_0x227e3f(0x12a)]['zIndex']=_0x227e3f(0x13c),_0x702f75[_0x227e3f(0x12a)][_0x227e3f(0x163)]='white',_0x702f75['id']=_0x227e3f(0x1aa),_0x10fbd5(_0x702f75));var _0x57e5ba=function(){var _0x1777eb=_0x227e3f;_0x541f00++,_0x3ece85=Date[_0x1777eb(0x157)](),(_0x1a8590=(_0x541f00/(_0x39c248=(_0x3ece85-_0x1a2b23)/0x3e8))[_0x1777eb(0x185)](0x2))!=_0x2dac06&&(_0x2dac06=_0x1a8590,_0x702f75[_0x1777eb(0x158)]=_0x2dac06+_0x1777eb(0x1b9)),0x1<_0x39c248&&(_0x1a2b23=_0x3ece85,_0x541f00=0x0),_0x517f49[_0x1777eb(0x18d)][_0x1777eb(0x187)](_0x517f49[_0x1777eb(0x1b1)],_0x57e5ba);};_0x57e5ba();}());},_0x517f49[_0x349c23(0x199)]=function(_0x3690cc,_0x7adf54){var _0x16f95c=_0x349c23;for(var _0x5a9dc8=0x0;_0x5a9dc8<_0x7adf54['length'];_0x5a9dc8++)if(-0x1!==_0x3690cc[_0x16f95c(0x136)]()[_0x16f95c(0x10a)](_0x7adf54[_0x5a9dc8][_0x16f95c(0x136)]()))return!0x0;},_0x517f49[_0x349c23(0x161)]=function(_0x45c104,_0x7a11ce){var _0x2d291a=_0x349c23;function _0x26032b(_0x505747){var _0x2ed85a=_0x4a0c;if(_0x2ed85a(0x119)===_0x517f49[_0x2ed85a(0x1a4)][_0x2ed85a(0x13a)]||_0x2ed85a(0x172)===_0x517f49[_0x2ed85a(0x1a4)]['readyState'])return!_0x505747||_0x7a11ce?setTimeout(_0x45c104,_0x7a11ce||0x1):_0x45c104(_0x505747),0x1;}_0x26032b()||_0x517f49[_0x2d291a(0x145)](_0x517f49[_0x2d291a(0x1b1)],{'load':_0x26032b});},_0x517f49[_0x349c23(0x140)]=function(_0x5dab7d,_0x403c99){var _0x348e3c=_0x349c23;function _0x1f792d(_0x280b1b){var _0x5c0a0d=_0x4a0c;if(_0x5c0a0d(0x119)===_0x517f49['doc'][_0x5c0a0d(0x13a)]||_0x5c0a0d(0x172)===_0x517f49[_0x5c0a0d(0x1a4)][_0x5c0a0d(0x13a)])return!_0x280b1b||_0x403c99?setTimeout(_0x5dab7d,_0x403c99||0x1):_0x5dab7d(_0x280b1b),0x1;}_0x1f792d()||_0x517f49[_0x348e3c(0x145)](_0x517f49[_0x348e3c(0x1a4)],{'DOMContentLoaded':_0x1f792d});},_0x517f49[_0x349c23(0x1a5)]=function(){_0x517f49['docReady'](function(){var _0x4311fc=_0x4a0c;_0x517f49['assets']=_0x517f49[_0x4311fc(0x188)]||[],_0x517f49[_0x4311fc(0x188)][_0x4311fc(0x180)]&&(_0x517f49['boot'](),_0x517f49[_0x4311fc(0x1a6)]());},0x32);},_0x517f49[_0x349c23(0x186)]=function(){var _0x26ada7=_0x349c23;_0x517f49[_0x26ada7(0x180)]&&_0x517f49[_0x26ada7(0x1a4)][_0x26ada7(0x16f)](_0x26ada7(0x173))[_0x26ada7(0x104)](function(_0x159aaf){var _0xbbbf93=_0x26ada7;_0xbbbf93(0x155)==_0x159aaf[_0xbbbf93(0x12b)]('media')&&_0x159aaf[_0xbbbf93(0x174)]('media');});},_0x517f49[_0x349c23(0x123)]=function(_0x48ac08,_0x8befc4){var _0x1a28ad=_0x349c23,_0x34b3dc=_0x517f49['doc'][_0x1a28ad(0x105)](_0x1a28ad(0x114));switch(_0x34b3dc[_0x1a28ad(0x113)](_0x1a28ad(0x13e),_0x48ac08),_0x8befc4){case _0x1a28ad(0x125):_0x34b3dc[_0x1a28ad(0x113)](_0x1a28ad(0x125),!0x0);break;case _0x1a28ad(0x111):_0x34b3dc[_0x1a28ad(0x113)](_0x1a28ad(0x111),!0x0);break;case'deferasync':_0x34b3dc[_0x1a28ad(0x113)](_0x1a28ad(0x125),!0x0),_0x34b3dc[_0x1a28ad(0x113)](_0x1a28ad(0x111),!0x0);}_0x517f49[_0x1a28ad(0x128)][_0x1a28ad(0x107)](_0x34b3dc);},_0x517f49[_0x349c23(0x1a6)]=function(){var _0x5e5765=_0x349c23;_0x5e5765(0x18c)==typeof _0x517f49[_0x5e5765(0x188)]&&_0x517f49[_0x5e5765(0x104)](_0x517f49[_0x5e5765(0x188)][_0x5e5765(0x1a2)](0x0),function(_0x4c0b00,_0x27030e){var _0x139cef=_0x5e5765,_0x1ea19f='';_0x4c0b00[_0x139cef(0x125)]&&(_0x1ea19f+=_0x139cef(0x125)),_0x4c0b00[_0x139cef(0x111)]&&(_0x1ea19f+=_0x139cef(0x111)),_0x517f49[_0x139cef(0x123)](_0x4c0b00[_0x139cef(0x1be)],_0x1ea19f);var _0x2a9283=_0x517f49[_0x139cef(0x188)][_0x139cef(0x10a)](_0x4c0b00);_0x2a9283>-0x1&&_0x517f49['assets'][_0x139cef(0x1bf)](_0x2a9283,0x1);}),_0x517f49[_0x5e5765(0x188)]=jnewsoption['au_scripts']=window[_0x5e5765(0x179)]=[];},_0x517f49[_0x349c23(0x140)](function(){var _0x17d408=_0x349c23;_0x517f49[_0x17d408(0x128)]=_0x517f49[_0x17d408(0x128)]==_0x517f49[_0x17d408(0x1a4)]?_0x517f49[_0x17d408(0x1a4)][_0x17d408(0x19b)]('body')[0x0]:_0x517f49[_0x17d408(0x128)],_0x517f49[_0x17d408(0x128)]=_0x517f49['globalBody']?_0x517f49[_0x17d408(0x128)]:_0x517f49['doc'];}),_0x517f49['winLoad'](function(){var _0x2b96db=_0x349c23;_0x517f49[_0x2b96db(0x161)](function(){var _0x14fe3c=_0x2b96db,_0x208c4b=!0x1;if(void 0x0!==window[_0x14fe3c(0x11a)]){if(void 0x0!==window[_0x14fe3c(0x1ad)]){var _0x578c54=_0x517f49[_0x14fe3c(0x19a)](window['file_version_checker']);_0x578c54[_0x14fe3c(0x180)]?_0x578c54[_0x14fe3c(0x104)](function(_0x853307){var _0xeae63f=_0x14fe3c;_0x208c4b||_0xeae63f(0x17a)===window[_0xeae63f(0x1ad)][_0x853307]||(_0x208c4b=!0x0);}):_0x208c4b=!0x0;}else _0x208c4b=!0x0;}_0x208c4b&&(window[_0x14fe3c(0x129)][_0x14fe3c(0x1bc)](),window['jnewsHelper'][_0x14fe3c(0x192)]());},0x9c4);});},window['jnews'][_0x4b7ed8(0x143)]=new window[(_0x4b7ed8(0x176))][(_0x4b7ed8(0x143))]()));</script>
+
+<title>Page not found - Luật Sư X</title>
+<meta property="og:locale" content="vi_VN" />
+<meta property="og:title" content="Page not found - Luật Sư X" />
+<meta property="og:site_name" content="Luật Sư X" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://luatsux.vn/#website","url":"https://luatsux.vn/","name":"Luật Sư X","description":"","publisher":{"@id":"https://luatsux.vn/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://luatsux.vn/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"Organization","@id":"https://luatsux.vn/#organization","name":"Công ty Luật Sư X","url":"https://luatsux.vn/","logo":{"@type":"ImageObject","inLanguage":"vi","@id":"https://luatsux.vn/#/schema/logo/image/","url":"https://cdn.luatsux.vn/wp-content/uploads/2021/03/26145852/logo-150.png","contentUrl":"https://cdn.luatsux.vn/wp-content/uploads/2021/03/26145852/logo-150.png","width":150,"height":44,"caption":"Công ty Luật Sư X"},"image":{"@id":"https://luatsux.vn/#/schema/logo/image/"}}]}</script>
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='preconnect' href='https://fonts.gstatic.com' />
+<link rel="alternate" type="application/rss+xml" title="Dòng thông tin Luật Sư X &raquo;" href="https://luatsux.vn/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng phản hồi Luật Sư X &raquo;" href="https://luatsux.vn/comments/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='chaty-front-css-css' href='https://luatsux.vn/wp-content/plugins/chaty/css/chaty-front.min.css?ver=1628680275' type='text/css' media='all' />
+<style id='chaty-front-css-inline-css' type='text/css'>
+                                #wechat-qr-code{left: 104px; right:auto;}
+                                .chaty-widget-is a{display: block; margin:0; padding:0;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%; }
+                .chaty-widget-is svg{margin:0; padding:0;}
+                .chaty-main-widget { display: none; }
+                .chaty-in-desktop .chaty-main-widget.is-in-desktop { display: block; }
+                .chaty-in-mobile .chaty-main-widget.is-in-mobile { display: block; }
+                .chaty-widget.hide-widget { display: none !important; }
+                .chaty-widget, .chaty-widget .get, .chaty-widget .get a { width: 62px }
+                .facustom-icon { width: 54px; line-height: 54px; height: 54px; font-size: 27px; }
+                .chaty-widget-is a { width: 54px; height: 54px; }
+                                                .facustom-icon.chaty-btn-phone {background-color: #03E78B}
+                .chaty-phone .color-element {fill: #03E78B; background: #03E78B}
+                                .facustom-icon.chaty-btn-email {background-color: #FF485F}
+                .chaty-email .color-element {fill: #FF485F; background: #FF485F}
+                                /*.chaty-widget-i-title.hide-it { display: none !important; }*/
+                body div.chaty-widget.hide-widget { display: none !important; }
+            .i-trigger .chaty-widget-i-title, .chaty-widget-i .chaty-widget-i-title {color:rgb(255, 255, 255) !important; background:rgb(235, 65, 28) !important;}.i-trigger .chaty-widget-i-title p, .chaty-widget-i.chaty-main-widget .chaty-widget-i-title p {color:rgb(255, 255, 255) !important; }.i-trigger .chaty-widget-i:not(.no-tooltip):before, .chaty-widget-i.chaty-main-widget:before { border-color: transparent transparent transparent rgb(235, 65, 28) !important;}.chaty-widget.chaty-widget-is-right .i-trigger .i-trigger-open.chaty-widget-i:before, .chaty-widget.chaty-widget-is-right .chaty-widget-i:before { border-color: transparent rgb(235, 65, 28) transparent transparent !important;}.chaty-widget.chaty-widget-is-right .i-trigger .chaty-widget-i:before, .chaty-widget.chaty-widget-is-right .chaty-widget-i:before {border-color: transparent rgb(235, 65, 28) transparent transparent !important; }
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://luatsux.vn/wp-includes/css/dist/block-library/style.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='quads-style-css-css' href='https://luatsux.vn/wp-content/plugins/quick-adsense-reloaded/includes/gutenberg/dist/blocks.style.build.css?ver=2.0.64.1' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-ead-plus-public-css' href='https://luatsux.vn/wp-content/plugins/embed-any-document-plus/css/embed-public.min.css?ver=2.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://luatsux.vn/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='kk-star-ratings-css' href='https://luatsux.vn/wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min.css?ver=5.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://luatsux.vn/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jeg_customizer_font-css' href='//fonts.googleapis.com/css?family=Space+Grotesk%3Aregular%2C500%2C700%2C700&#038;display=swap&#038;ver=1.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-frontend-css' href='https://luatsux.vn/wp-content/themes/jnews/assets/dist/frontend.min.css?ver=10.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-elementor-css' href='https://luatsux.vn/wp-content/themes/jnews/assets/css/elementor-frontend.css?ver=10.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-style-css' href='https://luatsux.vn/wp-content/themes/jnews/style.css?ver=10.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-darkmode-css' href='https://luatsux.vn/wp-content/themes/jnews/assets/css/darkmode.css?ver=10.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-scheme-css' href='https://luatsux.vn/wp-content/uploads/jnews/scheme.css?ver=1656845462' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-select-share-css' href='https://luatsux.vn/wp-content/plugins/jnews-social-share/assets/css/plugin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-weather-style-css' href='https://luatsux.vn/wp-content/plugins/jnews-weather/assets/css/plugin.css?ver=10.0.3' type='text/css' media='all' />
+<style id='quads-styles-inline-css' type='text/css'>
+
+    .quads-location ins.adsbygoogle {
+        background: transparent !important;
+    }
+    
+    .quads.quads_ad_container { display: grid; grid-template-columns: auto; grid-gap: 10px; padding: 10px; }
+    .grid_image{animation: fadeIn 0.5s;-webkit-animation: fadeIn 0.5s;-moz-animation: fadeIn 0.5s;
+        -o-animation: fadeIn 0.5s;-ms-animation: fadeIn 0.5s;}
+    .quads-ad-label { font-size: 12px; text-align: center; color: #333;}
+    .quads-text-around-ad-label-text_around_left {
+        width: 50%;
+        float: left;
+    }
+    .quads-text-around-ad-label-text_around_right {
+        width: 50%;
+        float: right;
+    }
+    .quads-popupad {
+        position: fixed;
+        top: 0px;
+        left:0px;
+        width: 100%;
+        height: 100em;
+        background-color: rgba(0,0,0,0.6);
+        z-index: 999;
+        max-width: 100em !important;
+        margin: 0 auto;
+    }
+    .quads.quads_ad_container_ {
+        position: fixed;
+        top: 40%;
+        left: 36%;
+    }
+    #btn_close{
+		background-color: #fff;
+		width: 25px;
+		height: 25px;
+		text-align: center;
+		line-height: 22px;
+		position: absolute;
+		right: -10px;
+		top: -10px;
+		cursor: pointer;
+		transition: all 0.5s ease;
+		border-radius: 50%;
+	}
+    #btn_close_video{
+		background-color: #fff;
+		width: 25px;
+		height: 25px;
+		text-align: center;
+		line-height: 22px;
+		position: absolute;
+		right: -10px;
+		top: -10px;
+		cursor: pointer;
+		transition: all 0.5s ease;
+		border-radius: 50%;
+        z-index:100;
+	}
+    @media screen and (max-width: 480px) {
+        .quads.quads_ad_container_ {
+            left: 10px;
+        }
+    }
+    
+    .quads-video {
+        position: fixed;
+        bottom: 0px;
+        z-index: 9999999;
+    }
+    quads_ad_container_video{
+        max-width:220px;
+    }
+    .quads_click_impression { display: none;}
+    
+    .quads-sticky {
+        width: 100% !important;
+        background-color: hsla(0,0%,100%,.7);
+        position: fixed;
+        max-width: 100%!important;
+        bottom:0;
+        margin:0;
+        text-align: center;
+    }.quads-sticky .quads-location {
+        text-align: center;
+    }.quads-sticky .wp_quads_dfp {
+        display: contents;
+    }
+    a.quads-sticky-ad-close {
+        background-color: #fff;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 22px;
+        position: absolute;
+        right: 0px;
+        top: -15px;
+        cursor: pointer;
+        transition: all 0.5s ease;
+        border-radius: 50%;
+    }
+    
+</style>
+<script type='text/javascript' src='https://luatsux.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://luatsux.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='chaty-front-end-js-extra'>
+/* <![CDATA[ */
+var chaty_settings = {"object_settings":{"isPRO":0,"pending_messages":"off","cht_cta_bg_color":"rgb(235, 65, 28)","cht_cta_text_color":"rgb(255, 255, 255)","click_setting":"click","number_of_messages":"1","number_color":"#ffffff","number_bg_color":"#dd0000","position":"left","social":[{"val":"0833102102","default_icon":"<svg class=\"ico_d \" width=\"39\" height=\"39\" viewBox=\"0 0 39 39\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" style=\"transform: rotate(0deg);\"><circle class=\"color-element\" cx=\"19.4395\" cy=\"19.4395\" r=\"19.4395\" fill=\"#03E78B\"\/><path d=\"M19.3929 14.9176C17.752 14.7684 16.2602 14.3209 14.7684 13.7242C14.0226 13.4259 13.1275 13.7242 12.8292 14.4701L11.7849 16.2602C8.65222 14.6193 6.11623 11.9341 4.47529 8.95057L6.41458 7.90634C7.16046 7.60799 7.45881 6.71293 7.16046 5.96705C6.56375 4.47529 6.11623 2.83435 5.96705 1.34259C5.96705 0.596704 5.22117 0 4.47529 0H0.745882C0.298353 0 5.69062e-07 0.298352 5.69062e-07 0.745881C5.69062e-07 3.72941 0.596704 6.71293 1.93929 9.3981C3.87858 13.575 7.30964 16.8569 11.3374 18.7962C14.0226 20.1388 17.0061 20.7355 19.9896 20.7355C20.4371 20.7355 20.7355 20.4371 20.7355 19.9896V16.4094C20.7355 15.5143 20.1388 14.9176 19.3929 14.9176Z\" transform=\"translate(9.07179 9.07178)\" fill=\"white\"\/><\/svg>","bg_color":"#03E78B","rbg_color":"3,231,139","title":"Phone","img_url":"","social_channel":"phone","channel_type":"phone","href_url":"tel:0833102102","desktop_target":"","mobile_target":"","qr_code_image":"","channel":"Phone","is_mobile":1,"is_desktop":1,"mobile_url":"tel:0833102102","on_click":"","has_font":0,"popup_html":"","has_custom_popup":0,"is_default_open":0},{"val":"luatsu@lsx.vn","default_icon":"<svg class=\"ico_d \" width=\"39\" height=\"39\" viewBox=\"0 0 39 39\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" style=\"transform: rotate(0deg);\"><circle class=\"color-element\" cx=\"19.4395\" cy=\"19.4395\" r=\"19.4395\" fill=\"#FF485F\"\/><path d=\"M20.5379 14.2557H1.36919C0.547677 14.2557 0 13.7373 0 12.9597V1.29597C0 0.518387 0.547677 0 1.36919 0H20.5379C21.3594 0 21.9071 0.518387 21.9071 1.29597V12.9597C21.9071 13.7373 21.3594 14.2557 20.5379 14.2557ZM20.5379 12.9597V13.6077V12.9597ZM1.36919 1.29597V12.9597H20.5379V1.29597H1.36919Z\" transform=\"translate(8.48619 12.3117)\" fill=\"white\"\/><path d=\"M10.9659 8.43548C10.829 8.43548 10.692 8.43548 10.5551 8.30588L0.286184 1.17806C0.012346 0.918864 -0.124573 0.530073 0.149265 0.270879C0.423104 0.0116857 0.833862 -0.117911 1.1077 0.141283L10.9659 7.00991L20.8241 0.141283C21.0979 -0.117911 21.5087 0.0116857 21.7825 0.270879C22.0563 0.530073 21.9194 0.918864 21.6456 1.17806L11.3766 8.30588C11.2397 8.43548 11.1028 8.43548 10.9659 8.43548Z\" transform=\"translate(8.47443 12.9478)\" fill=\"white\"\/><path d=\"M9.0906 7.13951C8.95368 7.13951 8.81676 7.13951 8.67984 7.00991L0.327768 1.17806C-0.0829894 0.918864 -0.0829899 0.530073 0.190849 0.270879C0.327768 0.0116855 0.738525 -0.117911 1.14928 0.141282L9.50136 5.97314C9.7752 6.23233 9.91212 6.62112 9.63828 6.88032C9.50136 7.00991 9.36444 7.13951 9.0906 7.13951Z\" transform=\"translate(20.6183 18.7799)\" fill=\"white\"\/><path d=\"M0.696942 7.13951C0.423104 7.13951 0.286185 7.00991 0.149265 6.88032C-0.124573 6.62112 0.012346 6.23233 0.286185 5.97314L8.63826 0.141282C9.04902 -0.117911 9.45977 0.0116855 9.59669 0.270879C9.87053 0.530073 9.73361 0.918864 9.45977 1.17806L1.1077 7.00991C0.970781 7.13951 0.833862 7.13951 0.696942 7.13951Z\" transform=\"translate(8.47443 18.7799)\" fill=\"white\"\/><\/svg>","bg_color":"#FF485F","rbg_color":"255,72,95","title":"Email","img_url":"","social_channel":"email","channel_type":"email","href_url":"mailto:luatsu@lsx.vn","desktop_target":"","mobile_target":"","qr_code_image":"","channel":"Email","is_mobile":1,"is_desktop":1,"mobile_url":"mailto:luatsu@lsx.vn","on_click":"","has_font":0,"popup_html":"","has_custom_popup":0,"is_default_open":0}],"pos_side":"right","bot":"25","side":"25","device":"desktop_active mobile_active","color":"#86CD91","rgb_color":"134,205,145","widget_size":"54","widget_type":"chat-base","widget_img":"","cta":"Li\u00ean h\u1ec7 Lu\u1eadt S\u01b0 X","active":"true","close_text":"Hide","analytics":0,"save_user_clicks":0,"close_img":"","is_mobile":0,"ajax_url":"https:\/\/luatsux.vn\/wp-admin\/admin-ajax.php","animation_class":"","time_trigger":"yes","trigger_time":"0","exit_intent":"no","on_page_scroll":"no","page_scroll":"0","gmt":"","display_conditions":0,"display_rules":[],"display_state":"click","has_close_button":"yes","mode":"vertical"},"ajax_url":"https:\/\/luatsux.vn\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://luatsux.vn/wp-content/plugins/chaty/js/cht-front-script.min.js?ver=1628680275' id='chaty-front-end-js'></script>
+<link rel="https://api.w.org/" href="https://luatsux.vn/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://luatsux.vn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://luatsux.vn/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1" />
+<script type='text/javascript'>document.cookie = 'quads_browser_width='+screen.width;</script><script>
+			document.addEventListener( "DOMContentLoaded", function() {
+				var div, i,
+					youtubePlayers = document.getElementsByClassName( "video-seo-youtube-player" );
+				for ( i = 0; i < youtubePlayers.length; i++ ) {
+					div = document.createElement( "div" );
+					div.className = "video-seo-youtube-embed-loader";
+					div.setAttribute( "data-id", youtubePlayers[ i ].dataset.id );
+					div.setAttribute( "tabindex", "0" );
+					div.setAttribute( "role", "button" );
+					div.setAttribute( "aria-label", "Load YouTube video" );
+					div.innerHTML = videoSEOGenerateYouTubeThumbnail( youtubePlayers[ i ].dataset.id );
+					div.addEventListener( "click", videoSEOGenerateYouTubeIframe );
+					div.addEventListener( "keydown", videoSEOYouTubeThumbnailHandleKeydown );
+					div.addEventListener( "keyup", videoSEOYouTubeThumbnailHandleKeyup );
+					youtubePlayers[ i ].appendChild( div );
+				}
+			} );
+
+			function videoSEOGenerateYouTubeThumbnail( id ) {
+				var thumbnail = '<picture class="video-seo-youtube-picture">\n' +
+					'<source class="video-seo-source-to-maybe-replace" media="(min-width: 801px)" srcset="https://i.ytimg.com/vi/' + id + '/maxresdefault.jpg" >\n' +
+					'<source class="video-seo-source-hq" media="(max-width: 800px)" srcset="https://i.ytimg.com/vi/' + id + '/hqdefault.jpg">\n' +
+					'<img onload="videoSEOMaybeReplaceMaxResSourceWithHqSource( event );" src="https://i.ytimg.com/vi/' + id + '/hqdefault.jpg" width="480" height="360" loading="eager" alt="">\n' +
+					'</picture>\n',
+					play = '<div class="video-seo-youtube-player-play"></div>';
+				return thumbnail.replace( "ID", id ) + play;
+			}
+
+			function videoSEOMaybeReplaceMaxResSourceWithHqSource( event ) {
+				var sourceMaxRes,
+					sourceHighQuality,
+					loadedThumbnail = event.target,
+					parent = loadedThumbnail.parentNode;
+
+				if ( loadedThumbnail.naturalWidth < 150 ) {
+					sourceMaxRes = parent.querySelector(".video-seo-source-to-maybe-replace");
+					sourceHighQuality = parent.querySelector(".video-seo-source-hq");
+					sourceMaxRes.srcset = sourceHighQuality.srcset;
+					parent.className = "video-seo-youtube-picture video-seo-youtube-picture-replaced-srcset";
+				}
+			}
+
+			function videoSEOYouTubeThumbnailHandleKeydown( event ) {
+				if ( event.keyCode !== 13 && event.keyCode !== 32 ) {
+					return;
+				}
+
+				if ( event.keyCode === 13 ) {
+					videoSEOGenerateYouTubeIframe( event );
+				}
+
+				if ( event.keyCode === 32 ) {
+					event.preventDefault();
+				}
+			}
+
+			function videoSEOYouTubeThumbnailHandleKeyup( event ) {
+				if ( event.keyCode !== 32 ) {
+					return;
+				}
+
+				videoSEOGenerateYouTubeIframe( event );
+			}
+
+			function videoSEOGenerateYouTubeIframe( event ) {
+				var el = ( event.type === "click" ) ? this : event.target,
+					iframe = document.createElement( "iframe" );
+
+				iframe.setAttribute( "src", "https://www.youtube.com/embed/" + el.dataset.id + "?autoplay=1&enablejsapi=1&origin=https%3A%2F%2Fluatsux.vn" );
+				iframe.setAttribute( "frameborder", "0" );
+				iframe.setAttribute( "allowfullscreen", "1" );
+				iframe.setAttribute( "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" );
+				el.parentNode.replaceChild( iframe, el );
+			}
+		</script><link rel="icon" href="https://luatsux.vn/wp-content/uploads/2021/06/cropped-logo-100-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://luatsux.vn/wp-content/uploads/2021/06/cropped-logo-100-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://luatsux.vn/wp-content/uploads/2021/06/cropped-logo-100-180x180.png" />
+<meta name="msapplication-TileImage" content="https://luatsux.vn/wp-content/uploads/2021/06/cropped-logo-100-270x270.png" />
+<style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css">body { --j-body-color : #444444; --j-accent-color : #12844e; --j-alt-color : #048ba8; --j-heading-color : #111111; } body,.jeg_newsfeed_list .tns-outer .tns-controls button,.jeg_filter_button,.owl-carousel .owl-nav div,.jeg_readmore,.jeg_hero_style_7 .jeg_post_meta a,.widget_calendar thead th,.widget_calendar tfoot a,.jeg_socialcounter a,.entry-header .jeg_meta_like a,.entry-header .jeg_meta_comment a,.entry-header .jeg_meta_donation a,.entry-header .jeg_meta_bookmark a,.entry-content tbody tr:hover,.entry-content th,.jeg_splitpost_nav li:hover a,#breadcrumbs a,.jeg_author_socials a:hover,.jeg_footer_content a,.jeg_footer_bottom a,.jeg_cartcontent,.woocommerce .woocommerce-breadcrumb a { color : #444444; } a, .jeg_menu_style_5>li>a:hover, .jeg_menu_style_5>li.sfHover>a, .jeg_menu_style_5>li.current-menu-item>a, .jeg_menu_style_5>li.current-menu-ancestor>a, .jeg_navbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_midbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_side_tabs li.active, .jeg_block_heading_5 strong, .jeg_block_heading_6 strong, .jeg_block_heading_7 strong, .jeg_block_heading_8 strong, .jeg_subcat_list li a:hover, .jeg_subcat_list li button:hover, .jeg_pl_lg_7 .jeg_thumb .jeg_post_category a, .jeg_pl_xs_2:before, .jeg_pl_xs_4 .jeg_postblock_content:before, .jeg_postblock .jeg_post_title a:hover, .jeg_hero_style_6 .jeg_post_title a:hover, .jeg_sidefeed .jeg_pl_xs_3 .jeg_post_title a:hover, .widget_jnews_popular .jeg_post_title a:hover, .jeg_meta_author a, .widget_archive li a:hover, .widget_pages li a:hover, .widget_meta li a:hover, .widget_recent_entries li a:hover, .widget_rss li a:hover, .widget_rss cite, .widget_categories li a:hover, .widget_categories li.current-cat>a, #breadcrumbs a:hover, .jeg_share_count .counts, .commentlist .bypostauthor>.comment-body>.comment-author>.fn, span.required, .jeg_review_title, .bestprice .price, .authorlink a:hover, .jeg_vertical_playlist .jeg_video_playlist_play_icon, .jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail:before, .jeg_horizontal_playlist .jeg_video_playlist_play, .woocommerce li.product .pricegroup .button, .widget_display_forums li a:hover, .widget_display_topics li:before, .widget_display_replies li:before, .widget_display_views li:before, .bbp-breadcrumb a:hover, .jeg_mobile_menu li.sfHover>a, .jeg_mobile_menu li a:hover, .split-template-6 .pagenum, .jeg_mobile_menu_style_5>li>a:hover, .jeg_mobile_menu_style_5>li.sfHover>a, .jeg_mobile_menu_style_5>li.current-menu-item>a, .jeg_mobile_menu_style_5>li.current-menu-ancestor>a { color : #12844e; } .jeg_menu_style_1>li>a:before, .jeg_menu_style_2>li>a:before, .jeg_menu_style_3>li>a:before, .jeg_side_toggle, .jeg_slide_caption .jeg_post_category a, .jeg_slider_type_1_wrapper .tns-controls button.tns-next, .jeg_block_heading_1 .jeg_block_title span, .jeg_block_heading_2 .jeg_block_title span, .jeg_block_heading_3, .jeg_block_heading_4 .jeg_block_title span, .jeg_block_heading_6:after, .jeg_pl_lg_box .jeg_post_category a, .jeg_pl_md_box .jeg_post_category a, .jeg_readmore:hover, .jeg_thumb .jeg_post_category a, .jeg_block_loadmore a:hover, .jeg_postblock.alt .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_postblock_carousel_2 .jeg_post_category a, .jeg_heroblock .jeg_post_category a, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, input[type="submit"], .btn, .button, .widget_tag_cloud a:hover, .popularpost_item:hover .jeg_post_title a:before, .jeg_splitpost_4 .page_nav, .jeg_splitpost_5 .page_nav, .jeg_post_via a:hover, .jeg_post_source a:hover, .jeg_post_tags a:hover, .comment-reply-title small a:before, .comment-reply-title small a:after, .jeg_storelist .productlink, .authorlink li.active a:before, .jeg_footer.dark .socials_widget:not(.nobg) a:hover .fa, div.jeg_breakingnews_title, .jeg_overlay_slider_bottom_wrapper .tns-controls button, .jeg_overlay_slider_bottom_wrapper .tns-controls button:hover, .jeg_vertical_playlist .jeg_video_playlist_current, .woocommerce span.onsale, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .jeg_popup_post .caption, .jeg_footer.dark input[type="submit"], .jeg_footer.dark .btn, .jeg_footer.dark .button, .footer_widget.widget_tag_cloud a:hover, .jeg_inner_content .content-inner .jeg_post_category a:hover, #buddypress .standard-form button, #buddypress a.button, #buddypress input[type="submit"], #buddypress input[type="button"], #buddypress input[type="reset"], #buddypress ul.button-nav li a, #buddypress .generic-button a, #buddypress .generic-button button, #buddypress .comment-reply-link, #buddypress a.bp-title-button, #buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a, div#buddypress .standard-form button:hover, div#buddypress a.button:hover, div#buddypress input[type="submit"]:hover, div#buddypress input[type="button"]:hover, div#buddypress input[type="reset"]:hover, div#buddypress ul.button-nav li a:hover, div#buddypress .generic-button a:hover, div#buddypress .generic-button button:hover, div#buddypress .comment-reply-link:hover, div#buddypress a.bp-title-button:hover, div#buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a:hover, #buddypress #item-nav .item-list-tabs ul li a:before, .jeg_inner_content .jeg_meta_container .follow-wrapper a { background-color : #12844e; } .jeg_block_heading_7 .jeg_block_title span, .jeg_readmore:hover, .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, .jeg_pagenav_3 .page_number:hover, .jeg_prevnext_post a:hover h3, .jeg_overlay_slider .jeg_post_category, .jeg_sidefeed .jeg_post.active, .jeg_vertical_playlist.jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail img, .jeg_horizontal_playlist .jeg_video_playlist_item.active { border-color : #12844e; } .jeg_tabpost_nav li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .jeg_mobile_menu_style_1>li.current-menu-item a, .jeg_mobile_menu_style_1>li.current-menu-ancestor a, .jeg_mobile_menu_style_2>li.current-menu-item::after, .jeg_mobile_menu_style_2>li.current-menu-ancestor::after, .jeg_mobile_menu_style_3>li.current-menu-item::before, .jeg_mobile_menu_style_3>li.current-menu-ancestor::before { border-bottom-color : #12844e; } .jeg_post_meta .fa, .jeg_post_meta .jpwt-icon, .entry-header .jeg_post_meta .fa, .jeg_review_stars, .jeg_price_review_list { color : #048ba8; } .jeg_share_button.share-float.share-monocrhome a { background-color : #048ba8; } h1,h2,h3,h4,h5,h6,.jeg_post_title a,.entry-header .jeg_post_title,.jeg_hero_style_7 .jeg_post_title a,.jeg_block_title,.jeg_splitpost_bar .current_title,.jeg_video_playlist_title,.gallery-caption,.jeg_push_notification_button>a.button { color : #111111; } .split-template-9 .pagenum, .split-template-10 .pagenum, .split-template-11 .pagenum, .split-template-12 .pagenum, .split-template-13 .pagenum, .split-template-15 .pagenum, .split-template-18 .pagenum, .split-template-20 .pagenum, .split-template-19 .current_title span, .split-template-20 .current_title span { background-color : #111111; } .jeg_header .jeg_bottombar.jeg_navbar,.jeg_bottombar .jeg_nav_icon { height : 72px; } .jeg_header .jeg_bottombar.jeg_navbar, .jeg_header .jeg_bottombar .jeg_main_menu:not(.jeg_menu_style_1) > li > a, .jeg_header .jeg_bottombar .jeg_menu_style_1 > li, .jeg_header .jeg_bottombar .jeg_menu:not(.jeg_main_menu) > li > a { line-height : 72px; } .jeg_header .jeg_bottombar.jeg_navbar_wrapper:not(.jeg_navbar_boxed), .jeg_header .jeg_bottombar.jeg_navbar_boxed .jeg_nav_row { background : #ededed; } .jeg_header .jeg_bottombar, .jeg_header .jeg_bottombar.jeg_navbar_dark, .jeg_bottombar.jeg_navbar_boxed .jeg_nav_row, .jeg_bottombar.jeg_navbar_dark.jeg_navbar_boxed .jeg_nav_row { border-bottom-width : 0px; } .jeg_stickybar.jeg_navbar,.jeg_navbar .jeg_nav_icon { height : 60px; } .jeg_stickybar.jeg_navbar, .jeg_stickybar .jeg_main_menu:not(.jeg_menu_style_1) > li > a, .jeg_stickybar .jeg_menu_style_1 > li, .jeg_stickybar .jeg_menu:not(.jeg_main_menu) > li > a { line-height : 60px; } .jeg_header_sticky .jeg_navbar_wrapper:not(.jeg_navbar_boxed), .jeg_header_sticky .jeg_navbar_boxed .jeg_nav_row { background : #ededed; } .jeg_stickybar, .jeg_stickybar.dark { border-bottom-width : 0px; } .jeg_mobile_midbar, .jeg_mobile_midbar.dark { background : #ededed; } .jeg_aside_item.socials_widget > a > i.fa:before { color : #6b6b6b; } .jeg_aside_item.socials_widget.nobg a span.jeg-icon svg { fill : #6b6b6b; } .jeg_aside_item.socials_widget a span.jeg-icon svg { fill : #6b6b6b; } .jeg_header .jeg_search_wrapper.search_icon .jeg_search_toggle { color : #dd3333; } #jeg_off_canvas.dark .jeg_mobile_wrapper, #jeg_off_canvas .jeg_mobile_wrapper { background : #111111; } .jeg_footer_content,.jeg_footer.dark .jeg_footer_content { background-color : #111111; color : #b5b5b5; } .jeg_footer .jeg_footer_heading h3,.jeg_footer.dark .jeg_footer_heading h3,.jeg_footer .widget h2,.jeg_footer .footer_dark .widget h2 { color : #ffffff; } .jeg_footer .jeg_footer_content a:hover,.jeg_footer.dark .jeg_footer_content a:hover { color : #f2a200; } .footer_widget.widget_tag_cloud a,.jeg_footer.dark .footer_widget.widget_tag_cloud a { background-color : #000000; } .jeg_footer_bottom,.jeg_footer.dark .jeg_footer_bottom,.jeg_footer_secondary,.jeg_footer.dark .jeg_footer_secondary { background-color : #212121; } .jeg_footer_secondary,.jeg_footer.dark .jeg_footer_secondary,.jeg_footer_bottom,.jeg_footer.dark .jeg_footer_bottom,.jeg_footer_sidecontent .jeg_footer_primary { color : #b5b5b5; } .jeg_footer_bottom a,.jeg_footer.dark .jeg_footer_bottom a,.jeg_footer_secondary a,.jeg_footer.dark .jeg_footer_secondary a,.jeg_footer_sidecontent .jeg_footer_primary a,.jeg_footer_sidecontent.dark .jeg_footer_primary a { color : #ffffff; } .jeg_read_progress_wrapper .jeg_progress_container .progress-bar { background-color : #12844e; } body,input,textarea,select,.chosen-container-single .chosen-single,.btn,.button { font-family: "Space Grotesk",Helvetica,Arial,sans-serif; } .jeg_post_title, .entry-header .jeg_post_title, .jeg_single_tpl_2 .entry-header .jeg_post_title, .jeg_single_tpl_3 .entry-header .jeg_post_title, .jeg_single_tpl_6 .entry-header .jeg_post_title, .jeg_content .jeg_custom_title_wrapper .jeg_post_title { font-family: "Space Grotesk",Helvetica,Arial,sans-serif;font-weight : 700; font-style : normal;  } .jeg_thumb .jeg_post_category a,.jeg_pl_lg_box .jeg_post_category a,.jeg_pl_md_box .jeg_post_category a,.jeg_postblock_carousel_2 .jeg_post_category a,.jeg_heroblock .jeg_post_category a,.jeg_slide_caption .jeg_post_category a { background-color : #f2a200; color : #111111; } .jeg_overlay_slider .jeg_post_category,.jeg_thumb .jeg_post_category a,.jeg_pl_lg_box .jeg_post_category a,.jeg_pl_md_box .jeg_post_category a,.jeg_postblock_carousel_2 .jeg_post_category a,.jeg_heroblock .jeg_post_category a,.jeg_slide_caption .jeg_post_category a { border-color : #f2a200; } </style><style type="text/css">
+					.no_thumbnail .jeg_thumb,
+					.thumbnail-container.no_thumbnail {
+					    display: none !important;
+					}
+					.jeg_search_result .jeg_pl_xs_3.no_thumbnail .jeg_postblock_content,
+					.jeg_sidefeed .jeg_pl_xs_3.no_thumbnail .jeg_postblock_content,
+					.jeg_pl_sm.no_thumbnail .jeg_postblock_content {
+					    margin-left: 0;
+					}
+					.jeg_postblock_11 .no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_12 .no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_12.jeg_col_3o3 .no_thumbnail .jeg_postblock_content  {
+					    margin-top: 0;
+					}
+					.jeg_postblock_15 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_19 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_24 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_sidefeed .jeg_pl_md_box .jeg_postblock_content {
+					    position: relative;
+					}
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a,
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a:hover,
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_meta .fa {
+					    color: #212121 !important;
+					} 
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a,
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a:hover,
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_meta .fa {
+					    color: #fff !important;
+					} 
+				</style> <style type="text/css" id="wp-custom-css">
+			.jeg_logo img {
+    height: 45px !important;
+    image-rendering: optimizeQuality;
+    display: block;
+}
+.kk-star-ratings.kksr-valign-bottom.kksr-align-right {
+    padding-bottom: 22px !important;
+}
+.jeg_post_tags {
+    padding-top: 22px !important;
+}		</style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z74KYT3GME"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z74KYT3GME');
+</script>
+</head>
+<body data-rsssl=1 class="error404 wp-embed-responsive jeg_toggle_light jnews jsc_normal elementor-default elementor-kit-73604">
+<div class="jeg_ad jeg_ad_top jnews_header_top_ads">
+<div class='ads-wrapper  '></div> </div>
+
+<div class="jeg_viewport">
+<div class="jeg_header_wrapper">
+<div class="jeg_header_instagram_wrapper">
+</div>
+
+<div class="jeg_header normal">
+<div class="jeg_bottombar jeg_navbar jeg_container jeg_navbar_wrapper jeg_navbar_normal jeg_navbar_normal">
+<div class="container">
+<div class="jeg_nav_row">
+<div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+<div class="item_wrap jeg_nav_alignleft">
+<div class="jeg_nav_item jeg_logo jeg_desktop_logo">
+<div class="site-title">
+<a href="https://luatsux.vn/" style="padding: 0 0 0 0;">
+<img class='jeg_logo_img' src="https://cdn.luatsux.vn/wp-content/uploads/2021/03/26145850/logo-lSX-43.png" srcset="https://cdn.luatsux.vn/wp-content/uploads/2021/03/26145850/logo-lSX-43.png 1x, https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 2x" alt="Luật Sư X" data-light-src="https://cdn.luatsux.vn/wp-content/uploads/2021/03/26145850/logo-lSX-43.png" data-light-srcset="https://cdn.luatsux.vn/wp-content/uploads/2021/03/26145850/logo-lSX-43.png 1x, https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 2x" data-dark-src="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png" data-dark-srcset="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 1x, https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 2x"> </a>
+</div>
+</div>
+</div>
+</div>
+<div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+<div class="item_wrap jeg_nav_alignright">
+</div>
+</div>
+<div class="jeg_nav_col jeg_nav_right jeg_nav_grow">
+<div class="item_wrap jeg_nav_alignright">
+<div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_1" data-animation="animate"><li id="menu-item-12122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-12122 bgnav" data-item-row="default"><a href="https://luatsux.vn/">Trang chủ</a></li>
+<li id="menu-item-12110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12110 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/">Tình huống pháp luật</a>
+<ul class="sub-menu">
+<li id="menu-item-12111" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12111 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-dan-su/">Luật Dân Sự</a></li>
+<li id="menu-item-12116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12116 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-hinh-su/">Luật Hình Sự</a></li>
+<li id="menu-item-12113" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12113 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-dat-dai/">Luật Đất Đai</a></li>
+<li id="menu-item-12119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12119 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-lao-dong/">Luật Lao Động</a></li>
+<li id="menu-item-12112" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12112 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-doanh-nghiep/">Luật Doanh Nghiệp</a></li>
+<li id="menu-item-12114" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12114 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-giao-thong/">Luật Giao Thông</a></li>
+<li id="menu-item-12115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12115 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-hanh-chinh/">Luật Hành Chính</a></li>
+<li id="menu-item-12121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12121 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-so-huu-tri-tue/">Luật Sở Hữu Trí Tuệ</a></li>
+<li id="menu-item-12120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12120 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-nghia-vu-quan-su/">Luật Nghĩa Vụ Quân Sự</a></li>
+<li id="menu-item-12117" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12117 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-hon-nhan-gia-dinh/">Luật Hôn Nhân &amp; Gia Đình</a></li>
+<li id="menu-item-12118" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12118 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-khac/">Luật Khác</a></li>
+</ul>
+</li>
+<li id="menu-item-12125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12125 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/">Văn bản pháp luật</a>
+<ul class="sub-menu">
+<li id="menu-item-12129" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12129 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/luat/">Luật</a></li>
+<li id="menu-item-12130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12130 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/nghi-dinh/">Nghị định</a></li>
+<li id="menu-item-12131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12131 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/nghi-quyet/">Nghị quyết</a></li>
+<li id="menu-item-12133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12133 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/quyet-dinh/">Quyết định</a></li>
+<li id="menu-item-12134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12134 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/thong-tu/">Thông tư</a></li>
+<li id="menu-item-12126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12126 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/chi-thi/">Chỉ thị</a></li>
+<li id="menu-item-12127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12127 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/cong-van/">Công văn</a></li>
+<li id="menu-item-12128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12128 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/lenh/">Lệnh</a></li>
+<li id="menu-item-12132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12132 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/phap-lenh/">Pháp lệnh</a></li>
+<li id="menu-item-12135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12135 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/van-ban-quoc-te/">Văn bản quốc tế</a></li>
+</ul>
+</li>
+<li id="menu-item-12123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12123 bgnav" data-item-row="default"><a href="https://luatsux.vn/bieu-mau/">Biểu mẫu</a></li>
+<li id="menu-item-12124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12124 bgnav" data-item-row="default"><a href="https://luatsux.vn/dich-vu-luat-su/">Dịch vụ luật sư</a></li>
+<li id="menu-item-12136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12136 bgnav" data-item-row="default"><a href="https://lienhe.lsx.vn/">Liên hệ luật sư</a></li>
+</ul></div></div>
+
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_popup_expand">
+<a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+<form action="https://luatsux.vn/" method="get" class="jeg_search_form" target="_top">
+<input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+
+<div class="jeg_search_result jeg_search_hide with_result">
+<div class="search-result-wrapper">
+</div>
+<div class="search-link search-noresult">
+No Result </div>
+<div class="search-link search-all-button">
+<i class="fa fa-search"></i> View All Result </div>
+</div></div> </div>
+</div>
+</div>
+</div>
+</div></div> </div>
+<div class="jeg_header_sticky">
+<div class="sticky_blankspace"></div>
+<div class="jeg_header normal">
+<div class="jeg_container">
+<div data-mode="scroll" class="jeg_stickybar jeg_navbar jeg_navbar_wrapper jeg_navbar_normal jeg_navbar_normal">
+<div class="container">
+<div class="jeg_nav_row">
+<div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+<div class="item_wrap jeg_nav_alignleft">
+<div class="jeg_nav_item jeg_logo">
+<div class="site-title">
+<a href="https://luatsux.vn/">
+<img class='jeg_logo_img' src="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png" srcset="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 1x, https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 2x" alt="Luật Sư X" data-light-src="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png" data-light-srcset="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 1x, https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 2x" data-dark-src="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png" data-dark-srcset="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 1x, https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 2x"> </a>
+</div>
+</div> </div>
+</div>
+<div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+<div class="item_wrap jeg_nav_aligncenter">
+</div>
+</div>
+<div class="jeg_nav_col jeg_nav_right jeg_nav_grow">
+<div class="item_wrap jeg_nav_alignright">
+<div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_1" data-animation="animate"><li id="menu-item-12122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-12122 bgnav" data-item-row="default"><a href="https://luatsux.vn/">Trang chủ</a></li>
+<li id="menu-item-12110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12110 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/">Tình huống pháp luật</a>
+<ul class="sub-menu">
+<li id="menu-item-12111" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12111 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-dan-su/">Luật Dân Sự</a></li>
+<li id="menu-item-12116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12116 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-hinh-su/">Luật Hình Sự</a></li>
+<li id="menu-item-12113" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12113 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-dat-dai/">Luật Đất Đai</a></li>
+<li id="menu-item-12119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12119 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-lao-dong/">Luật Lao Động</a></li>
+<li id="menu-item-12112" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12112 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-doanh-nghiep/">Luật Doanh Nghiệp</a></li>
+<li id="menu-item-12114" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12114 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-giao-thong/">Luật Giao Thông</a></li>
+<li id="menu-item-12115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12115 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-hanh-chinh/">Luật Hành Chính</a></li>
+<li id="menu-item-12121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12121 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-so-huu-tri-tue/">Luật Sở Hữu Trí Tuệ</a></li>
+<li id="menu-item-12120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12120 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-nghia-vu-quan-su/">Luật Nghĩa Vụ Quân Sự</a></li>
+<li id="menu-item-12117" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12117 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-hon-nhan-gia-dinh/">Luật Hôn Nhân &amp; Gia Đình</a></li>
+<li id="menu-item-12118" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12118 bgnav" data-item-row="default"><a href="https://luatsux.vn/tinh-huong/luat-khac/">Luật Khác</a></li>
+</ul>
+</li>
+<li id="menu-item-12125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12125 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/">Văn bản pháp luật</a>
+<ul class="sub-menu">
+<li id="menu-item-12129" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12129 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/luat/">Luật</a></li>
+<li id="menu-item-12130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12130 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/nghi-dinh/">Nghị định</a></li>
+<li id="menu-item-12131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12131 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/nghi-quyet/">Nghị quyết</a></li>
+<li id="menu-item-12133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12133 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/quyet-dinh/">Quyết định</a></li>
+<li id="menu-item-12134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12134 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/thong-tu/">Thông tư</a></li>
+<li id="menu-item-12126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12126 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/chi-thi/">Chỉ thị</a></li>
+<li id="menu-item-12127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12127 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/cong-van/">Công văn</a></li>
+<li id="menu-item-12128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12128 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/lenh/">Lệnh</a></li>
+<li id="menu-item-12132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12132 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/phap-lenh/">Pháp lệnh</a></li>
+<li id="menu-item-12135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12135 bgnav" data-item-row="default"><a href="https://luatsux.vn/van-ban-phap-luat/van-ban-quoc-te/">Văn bản quốc tế</a></li>
+</ul>
+</li>
+<li id="menu-item-12123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12123 bgnav" data-item-row="default"><a href="https://luatsux.vn/bieu-mau/">Biểu mẫu</a></li>
+<li id="menu-item-12124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12124 bgnav" data-item-row="default"><a href="https://luatsux.vn/dich-vu-luat-su/">Dịch vụ luật sư</a></li>
+<li id="menu-item-12136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12136 bgnav" data-item-row="default"><a href="https://lienhe.lsx.vn/">Liên hệ luật sư</a></li>
+</ul></div></div>
+
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_popup_expand">
+<a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+<form action="https://luatsux.vn/" method="get" class="jeg_search_form" target="_top">
+<input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+
+<div class="jeg_search_result jeg_search_hide with_result">
+<div class="search-result-wrapper">
+</div>
+<div class="search-link search-noresult">
+No Result </div>
+<div class="search-link search-all-button">
+<i class="fa fa-search"></i> View All Result </div>
+</div></div> </div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="jeg_navbar_mobile_wrapper">
+<div class="jeg_navbar_mobile" data-mode="scroll">
+<div class="jeg_mobile_bottombar jeg_mobile_midbar jeg_container normal">
+<div class="container">
+<div class="jeg_nav_row">
+<div class="jeg_nav_col jeg_nav_left jeg_nav_grow">
+<div class="item_wrap jeg_nav_alignleft">
+<div class="jeg_nav_item jeg_mobile_logo">
+<div class="site-title">
+<a href="https://luatsux.vn/">
+<img class='jeg_logo_img' src="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png" srcset="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 1x, https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 2x" alt="Luật Sư X" data-light-src="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png" data-light-srcset="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 1x, https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 2x" data-dark-src="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png" data-dark-srcset="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 1x, https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 2x"> </a>
+</div>
+</div> </div>
+</div>
+<div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+<div class="item_wrap jeg_nav_aligncenter">
+</div>
+</div>
+<div class="jeg_nav_col jeg_nav_right jeg_nav_grow">
+<div class="item_wrap jeg_nav_alignright">
+<div class="jeg_nav_item">
+<a href="#" class="toggle_btn jeg_mobile_toggle"><i class="fa fa-bars"></i></a>
+</div><div class="jeg_nav_item jeg_search_wrapper jeg_search_popup_expand">
+<a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+<form action="https://luatsux.vn/" method="get" class="jeg_search_form" target="_top">
+<input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+
+<div class="jeg_search_result jeg_search_hide with_result">
+<div class="search-result-wrapper">
+</div>
+<div class="search-link search-noresult">
+No Result </div>
+<div class="search-link search-all-button">
+<i class="fa fa-search"></i> View All Result </div>
+</div></div> </div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="sticky_blankspace" style="height: 60px;"></div> </div>
+<div class="jeg_ad jeg_ad_top jnews_header_bottom_ads">
+<div class='ads-wrapper  '></div> </div>
+<div class="jeg_main ">
+<div class="jeg_container">
+<div class="jeg_content">
+<div class="jeg_section">
+<div class="container">
+<div class="jeg_404_content row">
+<div class="jeg_main_content col-sm-8">
+<div class="jeg_inner_content">
+<div class="jeg_archive_header">
+<div class="jeg_breadcrumbs jeg_breadcrumb_container">
+<div id="breadcrumbs"><span class="">
+<a href="https://luatsux.vn">Home</a>
+</span><i class="fa fa-angle-right"></i><span class="breadcrumb_last_link">
+<a href="">Page Not Found</a>
+</span></div> </div>
+<h1 class="jeg_archive_title">Page Not Found</h1>
+<p>Sorry the page you were looking for cannot be found. Try searching for the best match or browse the links below:</p>
+<div class="jeg_archive_search">
+<form action="https://luatsux.vn/" method="get" class="jeg_search_form" target="_top">
+<input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+
+<div class="jeg_search_result jeg_search_hide with_result">
+<div class="search-result-wrapper">
+</div>
+<div class="search-link search-noresult">
+No Result </div>
+<div class="search-link search-all-button">
+<i class="fa fa-search"></i> View All Result </div>
+</div> </div>
+</div>
+ 
+<div class="jnews_404_content_wrapper">
+<div class="jeg_postblock_3 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_2o3 jnews_module_115274_0_637d835891e93   " data-unique="jnews_module_115274_0_637d835891e93">
+<div class="jeg_block_heading jeg_block_heading_6 jeg_subcat_right">
+<h3 class="jeg_block_title"><span>Latest Articles</span></h3>
+</div>
+<div class="jeg_posts jeg_block_container">
+<div class="jeg_posts jeg_load_more_flag">
+<article class="jeg_post jeg_pl_md_2 format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/xe-bien-xanh-thanh-ly-gay-tai-nan-chet-nguoi-bi-xu-ly-nhu-the-nao/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Xe biển xanh thanh lý gây tai nạn chết người bị xử lý như thế nào?" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/11/Xe-bien-xanh-thanh-ly-gay-tai-nan-chet-nguoi-bi-xu-ly-nhu-the-nao-350x250.jpg" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/xe-bien-xanh-thanh-ly-gay-tai-nan-chet-nguoi-bi-xu-ly-nhu-the-nao/">Xe biển xanh thanh lý gây tai nạn chết người bị xử lý như thế nào?</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://luatsux.vn/author/nguyenhuyenbaonhi/">Bảo Nhi</a></div><div class="jeg_meta_date"><a href="https://luatsux.vn/xe-bien-xanh-thanh-ly-gay-tai-nan-chet-nguoi-bi-xu-ly-nhu-the-nao/"><i class="fa fa-clock-o"></i> Tháng Mười Một 22, 2022</a></div><div class="jeg_meta_comment"><a href="https://luatsux.vn/xe-bien-xanh-thanh-ly-gay-tai-nan-chet-nguoi-bi-xu-ly-nhu-the-nao/#comments"><i class="fa fa-comment-o"></i> 0 </a></div></div>
+<div class="jeg_post_excerpt">
+<p>Xe biển xanh được quy định là một loại xe chuyên dùng cho các cơ quan Nhà nước, đơn vị...</p>
+</div>
+</div>
+</article><article class="jeg_post jeg_pl_md_2 format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/van-phong-luat-su-cong-ty-luat-su-tai-thanh-pho-ho-chi-minh/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Văn phòng luật sư, công ty luật sư tại thành phố Hồ Chí Minh" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/11/Van-phong-luat-su-cong-ty-luat-su-tai-thanh-pho-Ho-Chi-Minh-350x250.gif" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/van-phong-luat-su-cong-ty-luat-su-tai-thanh-pho-ho-chi-minh/">Văn phòng luật sư, công ty luật sư tại thành phố Hồ Chí Minh</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://luatsux.vn/author/nguyenhuyenbaonhi/">Bảo Nhi</a></div><div class="jeg_meta_date"><a href="https://luatsux.vn/van-phong-luat-su-cong-ty-luat-su-tai-thanh-pho-ho-chi-minh/"><i class="fa fa-clock-o"></i> Tháng Mười Một 22, 2022</a></div><div class="jeg_meta_comment"><a href="https://luatsux.vn/van-phong-luat-su-cong-ty-luat-su-tai-thanh-pho-ho-chi-minh/#comments"><i class="fa fa-comment-o"></i> 0 </a></div></div>
+<div class="jeg_post_excerpt">
+<p>Thành phố Hồ Chí Minh là một thành phố lớn của cả nước phát triển cả về mặt kinh tế,...</p>
+</div>
+</div>
+</article><article class="jeg_post jeg_pl_md_2 format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/cong-van-huy-ma-so-thue-ca-nhan-moi-nam-2022/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Công văn hủy mã số thuế cá nhân như thế nào?" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/11/Cong-van-huy-ma-so-thue-ca-nhan-nhu-the-nao-350x250.jpg" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/cong-van-huy-ma-so-thue-ca-nhan-moi-nam-2022/">Công văn hủy mã số thuế cá nhân mới năm 2022</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://luatsux.vn/author/phamthanhthuy/">PhamThanhThuy</a></div><div class="jeg_meta_date"><a href="https://luatsux.vn/cong-van-huy-ma-so-thue-ca-nhan-moi-nam-2022/"><i class="fa fa-clock-o"></i> Tháng Mười Một 22, 2022</a></div><div class="jeg_meta_comment"><a href="https://luatsux.vn/cong-van-huy-ma-so-thue-ca-nhan-moi-nam-2022/#comments"><i class="fa fa-comment-o"></i> 0 </a></div></div>
+<div class="jeg_post_excerpt">
+<p>Chào Luật sư, hiện nay tôi có thu nhập cũng khá cao. Tuy nhiên, hiện tại tôi đã không còn...</p>
+</div>
+</div>
+</article><article class="jeg_post jeg_pl_md_2 format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/mau-don-xin-huy-ma-so-thue-ca-nhan/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Mẫu đơn xin hủy mã số thuế cá nhân năm 2022" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/11/mau-don-xin-huy-ma-so-thue-ca-nhan-350x250.png" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/mau-don-xin-huy-ma-so-thue-ca-nhan/">Mẫu đơn xin hủy mã số thuế cá nhân năm 2022</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://luatsux.vn/author/buithihongngan/">Bùi Ngân</a></div><div class="jeg_meta_date"><a href="https://luatsux.vn/mau-don-xin-huy-ma-so-thue-ca-nhan/"><i class="fa fa-clock-o"></i> Tháng Mười Một 23, 2022</a></div><div class="jeg_meta_comment"><a href="https://luatsux.vn/mau-don-xin-huy-ma-so-thue-ca-nhan/#comments"><i class="fa fa-comment-o"></i> 0 </a></div></div>
+<div class="jeg_post_excerpt">
+<p>Mã số thuế cá nhân là một dãy số, chữ cái hoặc ký tự do cơ quan thuế cấp cho...</p>
+</div>
+</div>
+</article><article class="jeg_post jeg_pl_md_2 format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/thoi-gian-thanh-toan-che-do-om-dau/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Thời gian thanh toán chế độ ốm đau năm 2022" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/11/thoi-gian-thanh-toan-che-do-om-dau-350x250.jpg" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/thoi-gian-thanh-toan-che-do-om-dau/">Thời gian thanh toán chế độ ốm đau năm 2022</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://luatsux.vn/author/buithihongngan/">Bùi Ngân</a></div><div class="jeg_meta_date"><a href="https://luatsux.vn/thoi-gian-thanh-toan-che-do-om-dau/"><i class="fa fa-clock-o"></i> Tháng Mười Một 23, 2022</a></div><div class="jeg_meta_comment"><a href="https://luatsux.vn/thoi-gian-thanh-toan-che-do-om-dau/#comments"><i class="fa fa-comment-o"></i> 0 </a></div></div>
+<div class="jeg_post_excerpt">
+<p>Chế độ ốm đau là một chính sách an sinh xã hội mang tính nhân văn. Đây là một trong những...</p>
+</div>
+</div>
+</article><article class="jeg_post jeg_pl_md_2 format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/xin-giay-nghi-om-huong-bhxh-o-dau/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Xin giấy nghỉ ốm hưởng BHXH ở đâu năm 2022?" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/11/xin-giay-nghi-om-huong-bhxh-o-dau-350x250.jpg" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/xin-giay-nghi-om-huong-bhxh-o-dau/">Xin giấy nghỉ ốm hưởng BHXH ở đâu năm 2022?</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://luatsux.vn/author/buithihongngan/">Bùi Ngân</a></div><div class="jeg_meta_date"><a href="https://luatsux.vn/xin-giay-nghi-om-huong-bhxh-o-dau/"><i class="fa fa-clock-o"></i> Tháng Mười Một 22, 2022</a></div><div class="jeg_meta_comment"><a href="https://luatsux.vn/xin-giay-nghi-om-huong-bhxh-o-dau/#comments"><i class="fa fa-comment-o"></i> 0 </a></div></div>
+<div class="jeg_post_excerpt">
+<p>Chế độ ốm đau theo quy định là chính sách an sinh xã hội nhằm bảo đảm thu nhập cho...</p>
+</div>
+</div>
+</article><article class="jeg_post jeg_pl_md_2 format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/co-phieu-niem-yet-la-gi-uu-diem-cua-viec-niem-yet-co-phieu/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Cổ phiếu niêm yết là gì? Ưu điểm của việc niêm yết cổ phiếu" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/11/Co-phieu-niem-yet-la-gi-Uu-diem-cua-viec-niem-yet-co-phieu-350x250.jpeg" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/co-phieu-niem-yet-la-gi-uu-diem-cua-viec-niem-yet-co-phieu/">Cổ phiếu niêm yết là gì? Ưu điểm của việc niêm yết cổ phiếu</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://luatsux.vn/author/quynhtrang/">Trang Quynh</a></div><div class="jeg_meta_date"><a href="https://luatsux.vn/co-phieu-niem-yet-la-gi-uu-diem-cua-viec-niem-yet-co-phieu/"><i class="fa fa-clock-o"></i> Tháng Mười Một 22, 2022</a></div><div class="jeg_meta_comment"><a href="https://luatsux.vn/co-phieu-niem-yet-la-gi-uu-diem-cua-viec-niem-yet-co-phieu/#comments"><i class="fa fa-comment-o"></i> 0 </a></div></div>
+<div class="jeg_post_excerpt">
+<p>Xin chào Luật sư X. Tôi đang tìm hiểu quy định pháp luật về cổ phiếu niêm yết và có...</p>
+</div>
+</div>
+</article><article class="jeg_post jeg_pl_md_2 format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/hop-dong-dat-coc-mua-ban-nha-dat-co-bat-buoc-cong-chung-khong/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Hợp đồng đặt cọc mua bán nhà đất có bắt buộc công chứng không?" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/11/Hop-dong-dat-coc-mua-ban-nha-dat-co-bat-buoc-cong-chung-khong-350x250.jpeg" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/hop-dong-dat-coc-mua-ban-nha-dat-co-bat-buoc-cong-chung-khong/">Hợp đồng đặt cọc mua bán nhà đất có bắt buộc công chứng không?</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://luatsux.vn/author/quynhtrang/">Trang Quynh</a></div><div class="jeg_meta_date"><a href="https://luatsux.vn/hop-dong-dat-coc-mua-ban-nha-dat-co-bat-buoc-cong-chung-khong/"><i class="fa fa-clock-o"></i> Tháng Mười Một 22, 2022</a></div><div class="jeg_meta_comment"><a href="https://luatsux.vn/hop-dong-dat-coc-mua-ban-nha-dat-co-bat-buoc-cong-chung-khong/#comments"><i class="fa fa-comment-o"></i> 0 </a></div></div>
+<div class="jeg_post_excerpt">
+<p>Xin chào Luật sư X. Thời gian tới đây, tôi sẽ mua một mảnh đất để mở quán kinh doanh...</p>
+</div>
+</div>
+</article><article class="jeg_post jeg_pl_md_2 format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/muc-phat-vi-pham-quy-dinh-ve-niem-yet-chung-khoan/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Mức phạt vi phạm quy định về niêm yết chứng khoán năm 2022" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/11/Muc-phat-vi-pham-quy-dinh-ve-niem-yet-chung-khoan-nam-2022-350x250.jpg" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/muc-phat-vi-pham-quy-dinh-ve-niem-yet-chung-khoan/">Mức phạt vi phạm quy định về niêm yết chứng khoán năm 2022</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://luatsux.vn/author/quynhtrang/">Trang Quynh</a></div><div class="jeg_meta_date"><a href="https://luatsux.vn/muc-phat-vi-pham-quy-dinh-ve-niem-yet-chung-khoan/"><i class="fa fa-clock-o"></i> Tháng Mười Một 22, 2022</a></div><div class="jeg_meta_comment"><a href="https://luatsux.vn/muc-phat-vi-pham-quy-dinh-ve-niem-yet-chung-khoan/#comments"><i class="fa fa-comment-o"></i> 0 </a></div></div>
+<div class="jeg_post_excerpt">
+<p>Niêm yết chứng khoán được hiểu là việc thực hiện nhằm công bố chứng khoán đủ tiêu chuẩn và được...</p>
+</div>
+</div>
+</article><article class="jeg_post jeg_pl_md_2 format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/giao-dich-co-phieu-lo-le-la-gi/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Giao dịch cổ phiếu lô lẻ là gì theo quy định năm 2022?" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/11/Giao-dich-co-phieu-lo-le-la-gi-theo-quy-dinh-nam-2022-350x250.png" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/giao-dich-co-phieu-lo-le-la-gi/">Giao dịch cổ phiếu lô lẻ là gì theo quy định năm 2022?</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://luatsux.vn/author/quynhtrang/">Trang Quynh</a></div><div class="jeg_meta_date"><a href="https://luatsux.vn/giao-dich-co-phieu-lo-le-la-gi/"><i class="fa fa-clock-o"></i> Tháng Mười Một 22, 2022</a></div><div class="jeg_meta_comment"><a href="https://luatsux.vn/giao-dich-co-phieu-lo-le-la-gi/#comments"><i class="fa fa-comment-o"></i> 0 </a></div></div>
+<div class="jeg_post_excerpt">
+<p>Sau khoảng gần 2 năm ngưng cho giao dịch cổ phiếu lô lẻ để giải quyết tình trạng nghẽn lệnh....</p>
+</div>
+</div>
+</article><article class="jeg_post jeg_pl_md_2 format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/tai-mau-hop-dong-dat-coc-mua-ban-nha-dat/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Tải mẫu hợp đồng đặt cọc mua bán nhà đất mới năm 2022" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/11/Tai-mau-hop-dong-dat-coc-mua-ban-nha-dat-moi-nam-2022-350x250.webp" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/tai-mau-hop-dong-dat-coc-mua-ban-nha-dat/">Tải mẫu hợp đồng đặt cọc mua bán nhà đất mới năm 2022</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://luatsux.vn/author/quynhtrang/">Trang Quynh</a></div><div class="jeg_meta_date"><a href="https://luatsux.vn/tai-mau-hop-dong-dat-coc-mua-ban-nha-dat/"><i class="fa fa-clock-o"></i> Tháng Mười Một 22, 2022</a></div><div class="jeg_meta_comment"><a href="https://luatsux.vn/tai-mau-hop-dong-dat-coc-mua-ban-nha-dat/#comments"><i class="fa fa-comment-o"></i> 0 </a></div></div>
+<div class="jeg_post_excerpt">
+<p>Xin chào Luật sư X. Tôi đang có dự định ở shop quần áo nên đã tìm kiếm mặt bằng...</p>
+</div>
+</div>
+</article><article class="jeg_post jeg_pl_md_2 format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/thu-tuc-dau-thau-bi-huy-khi-nao/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Thủ tục đấu thấu bị hủy khi nào?" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/11/Thu-tuc-dau-thau-bi-huy-khi-nao-2-350x250.png" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/thu-tuc-dau-thau-bi-huy-khi-nao/">Thủ tục đấu thấu bị hủy khi nào theo quy định 2022?</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://luatsux.vn/author/ngocgam/">Ngọc Gấm</a></div><div class="jeg_meta_date"><a href="https://luatsux.vn/thu-tuc-dau-thau-bi-huy-khi-nao/"><i class="fa fa-clock-o"></i> Tháng Mười Một 22, 2022</a></div><div class="jeg_meta_comment"><a href="https://luatsux.vn/thu-tuc-dau-thau-bi-huy-khi-nao/#comments"><i class="fa fa-comment-o"></i> 0 </a></div></div>
+<div class="jeg_post_excerpt">
+<p>Chào Luật sư, Luật sư có thể cho tôi biết thông tin về việc thủ tục đấu thấu bị hủy...</p>
+</div>
+</div>
+</article>
+</div>
+<div class='module-overlay'>
+<div class='preloader_type preloader_dot'>
+<div class="module-preloader jeg_preloader dot">
+<span></span><span></span><span></span>
+</div>
+<div class="module-preloader jeg_preloader circle">
+<div class="jnews_preloader_circle_outer">
+<div class="jnews_preloader_circle_inner"></div>
+</div>
+</div>
+<div class="module-preloader jeg_preloader square">
+<div class="jeg_square">
+<div class="jeg_square_inner"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jeg_block_navigation">
+<div class='navigation_overlay'><div class='module-preloader jeg_preloader'><span></span><span></span><span></span></div></div>
+</div>
+<script>var jnews_module_115274_0_637d835891e93 = {"header_icon":"","first_title":"Latest Articles","second_title":"","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","number_post":"12","post_offset":0,"unique_content":"disable","include_post":"","included_only":false,"exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","doc_tag":"","sort_by":"latest","date_format":"default","date_format_custom":"Y\/m\/d","excerpt_length":20,"excerpt_ellipsis":"...","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":"12","pagination_scroll_limit":0,"ads_type":"disable","ads_position":1,"ads_random":"","ads_image":"","ads_image_tablet":"","ads_image_phone":"","ads_image_link":"","ads_image_alt":"","ads_image_new_tab":"","google_publisher_id":"","google_slot_id":"","google_desktop":"auto","google_tab":"auto","google_phone":"auto","content":"","ads_bottom_text":"","boxed":false,"boxed_shadow":false,"el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","box_shadow":false,"paged":1,"column_class":"jeg_col_2o3","class":"jnews_block_3"};</script>
+</div> </div>
+</div>
+</div>
+<div class="jeg_sidebar left jeg_sticky_sidebar col-sm-4">
+<div class="jegStickyHolder"><div class="theiaStickySidebar"><div class="widget widget_jnews_module_block_21" id="jnews_module_block_21-1"><div class="jeg_postblock_21 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_1o3 jnews_module_115274_1_637d83589abff  normal " data-unique="jnews_module_115274_1_637d83589abff">
+<div class="jeg_block_heading jeg_block_heading_8 jeg_subcat_right">
+<h3 class="jeg_block_title"><span>Trending</span></h3>
+</div>
+<div class="jeg_block_container">
+<div class="jeg_posts jeg_load_more_flag"><article class="jeg_post jeg_pl_sm format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/tra-cuu-so-dinh-danh-ca-nhan-cho-tre-em-nhu-the-nao/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Tra cứu số định danh cá nhân cho trẻ em như thế nào?" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/08/tra-cuu-so-dinh-danh-ca-nhan-cho-tre-em-nhu-the-nao-120x86.png" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/tra-cuu-so-dinh-danh-ca-nhan-cho-tre-em-nhu-the-nao/">Tra cứu số định danh cá nhân cho trẻ em như thế nào?</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://luatsux.vn/tra-cuu-so-dinh-danh-ca-nhan-cho-tre-em-nhu-the-nao/"><i class="fa fa-clock-o"></i> Tháng Tám 17, 2022</a></div></div>
+</div>
+</article><article class="jeg_post jeg_pl_sm format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/mat-can-cuoc-cong-dan-gan-chip-co-tim-duoc-khong/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="71" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Mất Căn cước công dân gắn chip có tìm được không?" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/05/mat-can-cuoc-cong-dan-gan-chip-co-tim-duoc-khong-1.jpeg" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/mat-can-cuoc-cong-dan-gan-chip-co-tim-duoc-khong/">Mất căn cước công dân gắn chip có tìm được không?</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://luatsux.vn/mat-can-cuoc-cong-dan-gan-chip-co-tim-duoc-khong/"><i class="fa fa-clock-o"></i> Tháng Năm 28, 2022</a></div></div>
+</div>
+</article><article class="jeg_post jeg_pl_sm format-standard">
+<div class="jeg_thumb">
+<a href="https://luatsux.vn/tra-cuu-so-the-can-cuoc-cong-dan-online/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="62" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="lazyload wp-post-image" alt="Tra cứu số thẻ căn cước công dân online" decoding="async" loading="lazy" data-src="https://luatsux.vn/wp-content/uploads/2022/05/dich-vu-cong.png" data-sizes="auto" data-expand="700" /></div></a>
+</div>
+<div class="jeg_postblock_content">
+<h3 class="jeg_post_title">
+<a href="https://luatsux.vn/tra-cuu-so-the-can-cuoc-cong-dan-online/">Tra cứu số thẻ căn cước công dân online</a>
+</h3>
+<div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://luatsux.vn/tra-cuu-so-the-can-cuoc-cong-dan-online/"><i class="fa fa-clock-o"></i> Tháng Năm 7, 2022</a></div></div>
+</div>
+</article></div>
+<div class='module-overlay'>
+<div class='preloader_type preloader_dot'>
+<div class="module-preloader jeg_preloader dot">
+<span></span><span></span><span></span>
+</div>
+<div class="module-preloader jeg_preloader circle">
+<div class="jnews_preloader_circle_outer">
+<div class="jnews_preloader_circle_inner"></div>
+</div>
+</div>
+<div class="module-preloader jeg_preloader square">
+<div class="jeg_square">
+<div class="jeg_square_inner"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jeg_block_navigation">
+<div class='navigation_overlay'><div class='module-preloader jeg_preloader'><span></span><span></span><span></span></div></div>
+</div>
+<script>var jnews_module_115274_1_637d83589abff = {"header_icon":"","first_title":"Trending","second_title":"","url":"","header_type":"heading_8","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","number_post":"3","post_offset":"0","unique_content":"disable","include_post":"","included_only":"0","exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","doc_tag":"","sort_by":"popular_post","date_format":"default","date_format_custom":"Y\/m\/d","force_normal_image_load":"0","pagination_mode":"disable","pagination_nextprev_showtext":"0","pagination_number_post":"6","pagination_scroll_limit":"0","boxed":"0","boxed_shadow":"0","el_id":"","el_class":"","scheme":"normal","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","paged":1,"column_class":"jeg_col_1o3","class":"jnews_block_21"};</script>
+</div></div><div class="widget widget_jnews_module_element_ads" id="jnews_module_element_ads-1"><div class='jeg_ad jeg_ad_module jnews_module_115274_2_637d83589f083   '><div class='ads-wrapper'><a href='' target='_self' rel="noopener" class='adlink ads_image '>
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' class='lazyload' data-src='https://luatsux.vn/wp-content/uploads/2022/07/banner-scaled-1.jpg' alt='' data-pin-no-hover="true">
+</a><a href='' target='_self' rel="noopener" class='adlink ads_image_tablet '>
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' class='lazyload' data-src='https://luatsux.vn/wp-content/uploads/2022/07/banner-scaled-1.jpg' alt='' data-pin-no-hover="true">
+</a><a href='' target='_self' rel="noopener" class='adlink ads_image_phone '>
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' class='lazyload' data-src='https://luatsux.vn/wp-content/uploads/2022/07/banner-scaled-1.jpg' alt='' data-pin-no-hover="true">
+</a></div></div></div></div></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jeg_ad jnews_above_footer_ads "><div class='ads-wrapper  '></div></div> </div>
+</div>
+<div class="footer-holder" id="footer" data-id="footer">
+<div class="jeg_footer jeg_footer_3 dark">
+<div class="jeg_footer_container jeg_container">
+<div class="jeg_footer_content">
+<div class="container">
+<div class="row">
+<div class="jeg_footer_primary clearfix">
+<div class="col-md-3 footer_column">
+<div class="footer_widget widget_jnews_about" id="jnews_about-1"><div class="jeg_footer_heading jeg_footer_heading_1"><h3 class="jeg_footer_title"><span>Chúng tôi là ai</span></h3></div> <div class="jeg_about ">
+<a class="footer_logo" href="https://luatsux.vn/">
+<img class='lazyload' src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png" data-srcset="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 1x, https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 2x" alt="Luật Sư X" data-light-src="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png" data-light-srcset="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 1x, https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 2x" data-dark-src="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png" data-dark-srcset="https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 1x, https://luatsux.vn/wp-content/uploads/2021/03/logo-lSX-43.png 2x" data-pin-no-hover="true">
+</a>
+<p>Luật sư X là đơn vị Luật uy tín, chuyên nghiệp, được nhiều cá nhân và tổ chức đặt trọn niềm tin. Được hỗ trợ và đồng hành để giải quyết những khó khăn về mặt pháp lý của thân chủ là mong muốn của Luật sư X.</p>
+</div>
+</div><div class="footer_widget widget_jnews_social" id="jnews_social-1">
+<div class="jeg_social_wrap ">
+<div class="socials_widget   nobg">
+<a href="https://www.facebook.com/luatsux/" target="_blank" rel="external noopener nofollow" class="jeg_facebook">
+<i class="fa fa-facebook"></i>
+</a><a href="https://www.youtube.com/c/LutsX" target="_blank" rel="external noopener nofollow" class="jeg_youtube">
+<i class="fa fa-youtube-play"></i>
+</a> </div>
+<style scoped></style> </div>
+</div> </div>
+<div class="col-md-3 footer_column">
+<div class="footer_widget widget_text" id="text-2"><div class="jeg_footer_heading jeg_footer_heading_1"><h3 class="jeg_footer_title"><span>VĂN PHÒNG LUẬT SƯ X</span></h3></div> <div class="textwidget"><p><strong>&#8211; VP HÀ NỘI: </strong>Biệt thự số 1, Lô 4E, đường Trung Yên 10B, phường Yên Hoà, Cầu Giấy, Hà Nội</p>
+<p><strong>&#8211; VP TP. HỒ CHÍ MINH:</strong> Số 21, Đường Số 7 CityLand Park Hills, Phường 10, Quận Gò Vấp, Hồ Chí Minh</p>
+<p><strong>&#8211; VP BẮC GIANG:</strong> 329 Lê Lợi, Phường Hoàng Văn Thụ, TP Bắc Giang</p>
+<p><b>HOTLINE: <a href="tel:0833102102">0833 102 102</a></b></p>
+</div>
+</div> </div>
+<div class="col-md-3 footer_column">
+<div class="widget_text footer_widget widget_custom_html" id="custom_html-5"><div class="textwidget custom-html-widget"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29794.818218709!2d105.799687!3d21.018586!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc6a18f5b5504cc2c!2zTHXhuq10IFPGsCBY!5e0!3m2!1svi!2sus!4v1668584003498!5m2!1svi!2sus" width="350" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div></div> </div>
+<div class="col-md-3 footer_column">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jeg_footer_bottom clearfix">
+<div class="container">
+
+<div class="footer_right">
+<ul class="jeg_menu_footer"><li id="menu-item-73654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73654"><a href="https://lienhe.lsx.vn/">Liên hệ dịch vụ</a></li>
+<li id="menu-item-73655" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73655"><a href="#">Việc làm tại Luật Sư X</a></li>
+<li id="menu-item-73656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73656"><a href="https://luatsux.vn/feed/">Rss</a></li>
+<li id="menu-item-73657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73657"><a href="https://luatsux.vn/sitemap_index.xml">Sitemap</a></li>
+</ul>
+</div>
+
+<p class="copyright"> © 2021 <a href="https://lsx.vn/" title="Premium WordPress news &amp; magazine theme">LSX</a> – Premium WordPress news &amp; magazine theme by <a href="https://lsx.vn/" title="LSX">LSX</a>. </p>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="jscroll-to-top">
+<a href="#back-to-top" class="jscroll-to-top_link"><i class="fa fa-angle-up"></i></a>
+</div>
+</div>
+
+<div id="jeg_off_canvas" class="dark">
+<a href="#" class="jeg_menu_close"><i class="jegicon-cross"></i></a>
+<div class="jeg_bg_overlay"></div>
+<div class="jeg_mobile_wrapper">
+<div class="nav_wrap">
+<div class="item_main">
+
+<div class="jeg_aside_item jeg_search_wrapper jeg_search_no_expand square">
+<a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+<form action="https://luatsux.vn/" method="get" class="jeg_search_form" target="_top">
+<input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+
+<div class="jeg_search_result jeg_search_hide with_result">
+<div class="search-result-wrapper">
+</div>
+<div class="search-link search-noresult">
+No Result </div>
+<div class="search-link search-all-button">
+<i class="fa fa-search"></i> View All Result </div>
+</div></div><div class="jeg_aside_item">
+<ul class="jeg_mobile_menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-12122"><a href="https://luatsux.vn/">Trang chủ</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12110"><a href="https://luatsux.vn/tinh-huong/">Tình huống pháp luật</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12111"><a href="https://luatsux.vn/tinh-huong/luat-dan-su/">Luật Dân Sự</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12116"><a href="https://luatsux.vn/tinh-huong/luat-hinh-su/">Luật Hình Sự</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12113"><a href="https://luatsux.vn/tinh-huong/luat-dat-dai/">Luật Đất Đai</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12119"><a href="https://luatsux.vn/tinh-huong/luat-lao-dong/">Luật Lao Động</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12112"><a href="https://luatsux.vn/tinh-huong/luat-doanh-nghiep/">Luật Doanh Nghiệp</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12114"><a href="https://luatsux.vn/tinh-huong/luat-giao-thong/">Luật Giao Thông</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12115"><a href="https://luatsux.vn/tinh-huong/luat-hanh-chinh/">Luật Hành Chính</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12121"><a href="https://luatsux.vn/tinh-huong/luat-so-huu-tri-tue/">Luật Sở Hữu Trí Tuệ</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12120"><a href="https://luatsux.vn/tinh-huong/luat-nghia-vu-quan-su/">Luật Nghĩa Vụ Quân Sự</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12117"><a href="https://luatsux.vn/tinh-huong/luat-hon-nhan-gia-dinh/">Luật Hôn Nhân &amp; Gia Đình</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12118"><a href="https://luatsux.vn/tinh-huong/luat-khac/">Luật Khác</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12125"><a href="https://luatsux.vn/van-ban-phap-luat/">Văn bản pháp luật</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12129"><a href="https://luatsux.vn/van-ban-phap-luat/luat/">Luật</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12130"><a href="https://luatsux.vn/van-ban-phap-luat/nghi-dinh/">Nghị định</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12131"><a href="https://luatsux.vn/van-ban-phap-luat/nghi-quyet/">Nghị quyết</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12133"><a href="https://luatsux.vn/van-ban-phap-luat/quyet-dinh/">Quyết định</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12134"><a href="https://luatsux.vn/van-ban-phap-luat/thong-tu/">Thông tư</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12126"><a href="https://luatsux.vn/van-ban-phap-luat/chi-thi/">Chỉ thị</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12127"><a href="https://luatsux.vn/van-ban-phap-luat/cong-van/">Công văn</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12128"><a href="https://luatsux.vn/van-ban-phap-luat/lenh/">Lệnh</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12132"><a href="https://luatsux.vn/van-ban-phap-luat/phap-lenh/">Pháp lệnh</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12135"><a href="https://luatsux.vn/van-ban-phap-luat/van-ban-quoc-te/">Văn bản quốc tế</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12123"><a href="https://luatsux.vn/bieu-mau/">Biểu mẫu</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12124"><a href="https://luatsux.vn/dich-vu-luat-su/">Dịch vụ luật sư</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12136"><a href="https://lienhe.lsx.vn/">Liên hệ luật sư</a></li>
+</ul></div> </div>
+<div class="item_bottom">
+<div class="jeg_aside_item socials_widget nobg">
+<a href="https://www.facebook.com/luatsux/" target='_blank' rel='external noopener nofollow' class="jeg_facebook"><i class="fa fa-facebook"></i> </a><a href="https://www.youtube.com/c/LutsX" target='_blank' rel='external noopener nofollow' class="jeg_youtube"><i class="fa fa-youtube-play"></i> </a><a href="https://www.tiktok.com/@luatsux" target='_blank' rel='external noopener nofollow' class="jeg_tiktok"><span class="jeg-icon icon-tiktok"><svg id="jeg-icon-svg" data-name="Jeg Icon Tiktok" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 306.45 350"><path d="M149,129.23V187.7c-11,1.28-21.93,1.42-32.25,4-18.18,4.51-29.08,17.92-32.5,35.43-3.93,20.16,1,38.73,18.47,51.95,15.9,12,32.74,13.53,51.13,5.42,23.13-10.19,31.67-29,31.77-52.44.3-72.27.11-144.53.11-216.8V0h57.85c6,50.07,35.76,77.66,85.33,85.25v56.66c-29.89,3.23-55.39-8.72-81.34-23.71-.49,4.24-1.09,7.23-1.14,10.23-.72,40.55-.49,81.13-2.31,121.62-1.28,28.3-14.58,52-35.6,70.76-23.66,21.09-51.89,30.77-83.52,29-30.12-1.71-55-15.29-74.63-37.65-22.3-25.38-30.9-56-27-89,3.38-28.73,18-52.72,40.53-70.92C88.28,132.48,116.43,124.68,149,129.23Z" transform="translate(-22.47 0)" /></svg></span> </a></div><div class="jeg_aside_item jeg_aside_copyright">
+<p>© 2021 <a href="https://lsx.vn/" title="Premium WordPress news &amp; magazine theme">LSX</a> – Premium WordPress news &amp; magazine theme by <a href="https://lsx.vn/" title="LSX">LSX</a>.</p>
+</div> </div>
+</div> </div>
+</div> <script type="text/javascript" src="https://luatsux.vn/wp-content/plugins/quick-adsense-reloaded/assets/js/ads.js"></script><script type="text/javascript">var jfla = []</script><script type='text/javascript' src='https://luatsux.vn/wp-content/plugins/embed-any-document-plus/js/pdfobject.min.js?ver=2.8.1' id='awsm-ead-pdf-object-js'></script>
+<script type='text/javascript' id='awsm-ead-plus-public-js-extra'>
+/* <![CDATA[ */
+var eadPublic = {"pdfjs":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://luatsux.vn/wp-content/plugins/embed-any-document-plus/js/embed-public.min.js?ver=2.8.1' id='awsm-ead-plus-public-js'></script>
+<script type='text/javascript' id='kk-star-ratings-js-extra'>
+/* <![CDATA[ */
+var kk_star_ratings = {"action":"kk-star-ratings","endpoint":"https:\/\/luatsux.vn\/wp-admin\/admin-ajax.php","nonce":"54b15e6b02"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://luatsux.vn/wp-content/plugins/kk-star-ratings/src/core/public/js/kk-star-ratings.min.js?ver=5.4.0' id='kk-star-ratings-js'></script>
+<script type='text/javascript' id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-extra'>
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin\/|\/logout\/|\/wp-login.php|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/luatsux.vn","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-after'>
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type='text/javascript' src='https://luatsux.vn/wp-includes/js/hoverIntent.min.js?ver=1.10.2' id='hoverIntent-js'></script>
+<script type='text/javascript' src='https://luatsux.vn/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' id='jnews-frontend-js-extra'>
+/* <![CDATA[ */
+var jnewsoption = {"login_reload":"https:\/\/luatsux.vn\/wp-content\/uploads\/2022\/08\/Mat-chung-minh-nhan-dan-co-bi-phat-khong-theo-quy-dinh-1-750x505.jpg.jpg","popup_script":"magnific","single_gallery":"","ismobile":"","isie":"","sidefeed_ajax":"","language":"vi","module_prefix":"jnews_module_ajax_","live_search":"1","postid":"0","isblog":"","admin_bar":"0","follow_video":"","follow_position":"top_right","rtl":"0","gif":"","lang":{"invalid_recaptcha":"Invalid Recaptcha!","empty_username":"Please enter your username!","empty_email":"Please enter your email!","empty_password":"Please enter your password!"},"recaptcha":"0","site_slug":"\/","site_domain":"luatsux.vn","zoom_button":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://luatsux.vn/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=10.8.0' id='jnews-frontend-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://luatsux.vn/wp-content/themes/jnews/assets/js/html5shiv.min.js?ver=10.8.0' id='html5shiv-js'></script>
+<![endif]-->
+<script type='text/javascript' id='jnews-select-share-js-extra'>
+/* <![CDATA[ */
+var jnews_select_share = {"is_customize_preview":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://luatsux.vn/wp-content/plugins/jnews-social-share/assets/js/plugin.js' id='jnews-select-share-js'></script>
+<script type='text/javascript' src='https://luatsux.vn/wp-content/plugins/jnews-weather/assets/js/plugin.js?ver=10.0.3' id='jnews-weather-js'></script>
+<script type='text/javascript' src='https://luatsux.vn/wp-content/plugins/quick-adsense-reloaded/assets/js/ads.js?ver=2.0.64.1' id='quads-admin-ads-js'></script>
+<div class="jeg_ad jnews_mobile_sticky_ads "></div><script type="text/javascript">;!function(){"use strict";window.jnews=window.jnews||{},window.jnews.first_load=window.jnews.first_load||{},window.jnews.first_load=function(){var e=this,t=jnews.library,n="object"==typeof jnews&&"object"==typeof jnews.library;e.data=null,e.run_ajax=!0,e.run_loginregister=!0,e.clear=function(){e.run_ajax=!0,e.run_loginregister=!0,e.data=null},e.init=function(){n&&(t.globalBody.querySelectorAll(".jeg_popup_account").length&&jnews.loginregister&&e.run_loginregister&&(e.run_loginregister=!1,jnews.loginregister.init(),jnews.loginregister.hook_form()),jfla.length&&e.run_ajax&&(e.run_ajax=!1,e.do_ajax({action:"jnews_first_load_action",jnews_id:jnewsoption.postid,load_action:jfla})))},e.update_counter=function(){if(n){var o={total_view:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_views_count .counts"),total_share:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_share_count .counts"),total_comment:t.globalBody.querySelectorAll(".jeg_meta_comment a span")};t.forEach(Object.entries(e.data.counter),(function([e,n]){o[e].length&&t.forEach(o[e],(function(e,o){t.setText(e,n)}))}))}},e.do_ajax=function(o){if(n){var a=new XMLHttpRequest;a.onreadystatechange=function(){XMLHttpRequest.DONE===a.readyState&&200==a.status&&(e.data=JSON.parse(a.responseText),e.data.counter&&"object"==typeof e.data.counter&&e.update_counter())},a.open("POST",jnews_ajax_url,!0),a.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8"),a.send(t.httpBuildQuery(o))}}},window.jnews.first_load=new window.jnews.first_load,jnews.first_load.init()}();</script></body>
+</html>

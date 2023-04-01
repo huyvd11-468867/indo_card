@@ -1,0 +1,26 @@
+<annotation>
+	<folder>save_img</folder>
+	<filename>b577a675e228427ba29fd15c3fa6790d.jpg.jpg</filename>
+	<path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/b577a675e228427ba29fd15c3fa6790d.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2956</width>
+		<height>1684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Status Perkawinan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>890</xmin>
+			<ymin>1060</ymin>
+			<xmax>1232</xmax>
+			<ymax>1153</ymax>
+		</bndbox>
+	</object>
+</annotation>

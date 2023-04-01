@@ -1,0 +1,13 @@
+<annotation><filename>797fb9bde4724393b176141c1fdc2213.jpg.jpg</filename><path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/797fb9bde4724393b176141c1fdc2213.jpg.jpg</path><source><database>Unknown</database></source><size><width>528</width><height>283</height></size><object>
+		<name>Kecamatan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>155</ymin>
+			<xmax>201</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<segmented>0</segmented></annotation>

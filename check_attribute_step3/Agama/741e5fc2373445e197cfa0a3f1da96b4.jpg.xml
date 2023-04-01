@@ -1,0 +1,26 @@
+<annotation>
+	<folder>save_img</folder>
+	<filename>741e5fc2373445e197cfa0a3f1da96b4.jpg.jpg</filename>
+	<path>/home/huyvd/Documents/works/pytorch_tutorial/tap_code/indo_card_code/card_indo_test_step3/save_img/741e5fc2373445e197cfa0a3f1da96b4.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Agama</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>153</ymin>
+			<xmax>189</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>
